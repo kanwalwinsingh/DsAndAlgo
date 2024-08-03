@@ -1,0 +1,11 @@
+
+˜	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãıÿÿÿÿ8šÀÆùŠ2J$12f65135-b75b-46f9-b2c3-ebaaa0f39df4
+˜	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¶×şÿÿÿÿ8šÀÆùŠ2J$1f6c21b9-69fb-4de2-86ad-72ba4568471b
+’	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ô¸R8šÀÆùŠ2J$a69d1e2a-0058-4ea7-a9d6-3ecf0d767dd6
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8šÀÆùŠ2J$5f1a6fd4-4b66-4a6b-9a75-01c3327a1fcb
+w
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(½›šË8ÀÆùŠ2J$6db4cef5-1637-4d94-a419-035fa0418da8
+‰
+java:S16596"ADeclare "size" and all following declarations on a separate line.(Â•ÿÿÿÿÿ8ÀÆùŠ2J$7e00cd0a-1e1c-4439-a5b1-40feb526eee6
+~	java:S125Q"<This block of commented-out lines of code should be removed.(Çƒä×8ÀÆùŠ2J$87f7a32a-b820-48f4-a7b0-bcd9a4720642
+m	java:S106W"+Replace this use of System.out by a logger.(¨ö£ì8ÀÆùŠ2J$2f8e89d9-d399-4e6c-ba84-7f984fdf5c78

@@ -1,0 +1,27 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8…ŠÔÿŒ2J$fa65d31d-1439-4ab7-a4b8-1ae0e7554441
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Å²Åßøÿÿÿÿ8ÁÓÖÿŒ2J$712954cc-56e0-4a5d-9a99-00e973e8245e
+y
+java:S1854"7Remove this useless assignment to local variable "mid".(æ˜u8‡ŠÔÿŒ2J$4b7065bb-096c-4cad-8074-a5fc5469a9d7
+|
+java:S1854+"9Remove this useless assignment to local variable "nums2".(·Ì¤¯8ˆŠÔÿŒ2J$af782b13-5437-44c4-b605-852b348e6efa
+~
+java:S1854'";Remove this useless assignment to local variable "target1".(¯ç•†8ˆŠÔÿŒ2J$ef290f7b-26e6-4d97-aef7-0dccc9960260
+|
+java:S1854'"9Remove this useless assignment to local variable "nums1".(¯ç•†8ˆŠÔÿŒ2J$49eb6695-8a65-4ed2-8722-2a9be7a2e134
+l
+java:S1659""$Declare "target" on a separate line.(­†øıÿÿÿÿ8ˆŠÔÿŒ2J$97a08143-5e44-4b57-ad5e-68c155a05351
+h
+java:S1659'"%Declare "target1" on a separate line.(¯ç•†8ˆŠÔÿŒ2J$f75fd96e-fe2c-4832-9ea6-3245b40a861b
+h
+java:S1659+"%Declare "target2" on a separate line.(·Ì¤¯8ˆŠÔÿŒ2J$7872b5c6-37f4-4838-937e-75ce073cfc48
+r	java:S106#"+Replace this use of System.out by a logger.(†Í†Úúÿÿÿÿ8ˆŠÔÿŒ2J$6db3fa64-8027-471e-8c6a-b9ef46b2f84e
+m
+java:S1481'"*Remove this unused "nums1" local variable.(¯ç•†8‰ŠÔÿŒ2J$4e5755fc-8927-45fa-aad0-5882b20f7296
+o
+java:S1481'",Remove this unused "target1" local variable.(¯ç•†8‰ŠÔÿŒ2J$5c711a62-fbb4-47a8-bcc2-7cb7fa3b2c57
+m
+java:S1481+"*Remove this unused "nums2" local variable.(·Ì¤¯8‰ŠÔÿŒ2J$6559d5cd-8be0-4706-b6c4-1ee96f7797a2
+o
+java:S1481+",Remove this unused "target2" local variable.(·Ì¤¯8‰ŠÔÿŒ2J$d6048488-0ef7-4378-b56d-dc11bf1774f5

@@ -1,0 +1,15 @@
+
+”
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(óûŠv8š™ç€„2J$b48b6d74-237f-4c10-b441-915b662c675a
+l
+java:S1197"*Move the array designators [] to the type.(óûŠv8š™ç€„2J$cc4b9053-6245-486f-ad34-928c03208d33
+†
+java:S1659">Declare "j" and all following declarations on a separate line.(À”²Êúÿÿÿÿ8š™ç€„2J$69559dd1-a079-492e-8b5f-4c623be89991
+r
+java:S1197,"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8’°è€„2J$defd1be0-dd6e-4f1d-ae0d-d542c4ada3b2
+m
+java:S1197-"*Move the array designators [] to the type.(®¨ÉË8’°è€„2J$76e35c8a-f187-4b10-99a1-b50f8bb37200
+r	java:S106/"+Replace this use of System.out by a logger.(åÄ¤ÿÿÿÿÿ8“°è€„2J$b38f1b01-2a45-40bc-ba4b-534360751923
+r
+java:S11971"*Move the array designators [] to the type.(¿ôƒ…ÿÿÿÿÿ8“°è€„2J$4de4e1e1-007d-48ab-acb4-96642f9ea95f
+m	java:S1063"+Replace this use of System.out by a logger.(’²ˆ8“°è€„2J$9cb332f8-7f15-447f-82d6-957431b6618f

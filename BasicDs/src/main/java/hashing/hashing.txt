@@ -1,0 +1,4 @@
+Hashing is a process used to uniquely identify object and store each object at some pre-calculated index called key.
+
+a hash function simply takes a key of an item and return a calculated index in the hash table.
+arithmetic modular, truncating,

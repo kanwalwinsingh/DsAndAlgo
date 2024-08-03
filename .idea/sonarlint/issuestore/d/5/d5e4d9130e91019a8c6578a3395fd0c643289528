@@ -1,0 +1,13 @@
+
+k
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(–ú‚Áøÿÿÿÿ
+o
+java:S1104"TMake nextNode a static final constant or non-public and provide accessors if needed.(‡¤«İÿÿÿÿÿ
+o
+java:S1104"TMake headNode a static final constant or non-public and provide accessors if needed.(ˆæ’¢ùÿÿÿÿ
+k
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(õ˜óøÿÿÿÿ
+E	java:S1069"+Replace this use of System.out by a logger.(Šà¯»úÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(£òîäøÿÿÿÿ
+@	java:S106A"+Replace this use of System.out by a logger.(ˆ§¯ô
+E	java:S106E"+Replace this use of System.out by a logger.(Âû¯Ğüÿÿÿÿ

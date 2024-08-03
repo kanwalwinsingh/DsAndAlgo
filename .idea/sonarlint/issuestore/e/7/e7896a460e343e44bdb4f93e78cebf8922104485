@@ -1,0 +1,11 @@
+
+“
+java:S1104"PMake root a static final constant or non-public and provide accessors if needed.(½Âœ²8–ëúü‚2J$79f30d17-3027-474f-9c67-e2c38a86a869
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8êöû‚2J$b45df971-5337-4e4e-b585-8776826ebfda
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‚°‡Úşÿÿÿÿ8‘êöû‚2J$073e3bd4-3ae6-4a60-8edf-e9aed80cab1b
+z
+java:S1117"7Rename "root" which hides the field declared at line 6.(Ô‰Ê”8‘êöû‚2J$0b6f9bab-530b-473f-b7f7-bd6bf9ff3b4a
+m	java:S1061"+Replace this use of System.out by a logger.(¸œúË8äİõü‚2J$c25d8583-a690-4e32-9fc7-d9df8bf3b526
+Š
+java:S1128"BRemove this unused import 'main.java.trees.binarysearchtree.Node'.(Šœ“øÿÿÿÿ8’Î÷ü‚2J$db9617e9-17fd-4dde-b71e-c28f6c7bb951

@@ -1,0 +1,9 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ò·¸8é•˜Õ‹2J$bd4fde7e-4ed5-4926-a539-0f6c760d23ab
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ò·¸8ê•˜Õ‹2J$f15569da-579b-45ba-91da-0f47838edd83
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»â©îÿÿÿÿÿ8ÏÁ™Õ‹2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê©á·üÿÿÿÿ8ÏÁ™Õ‹2
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¼þ:8ê•˜Õ‹2J$795b5827-1cf1-41b9-9278-ddb337411236
+L	java:S106"+Replace this use of System.out by a logger.(Ý°è‚ýÿÿÿÿ8ÒÁ™Õ‹2
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ë•˜Õ‹2J$00c94dd7-7ae5-4904-9995-da72af4b1938

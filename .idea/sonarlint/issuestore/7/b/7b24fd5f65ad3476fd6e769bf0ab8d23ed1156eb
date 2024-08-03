@@ -1,0 +1,11 @@
+
+š
+java:S1104"WMake addressType a static final constant or non-public and provide accessors if needed.(Îë‰8óÕ’âˆ2J$6d92a728-8e3b-4c1c-bbe6-94bedce17efb
+›
+java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8ôÕ’âˆ2J$c2718cce-95d7-4015-bc2e-2afad7620a3b
+˜
+java:S1104"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ8ôÕ’âˆ2J$be22c826-faec-411b-8a0d-46fee6b406d0
+^
+java:S1700"Rename field "address"(€ªµúÿÿÿÿÿ8ôÕ’âˆ2J$dcf42ded-5504-495f-b96a-ff699fb8e4ba
+–
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8ô““âˆ2J$e0e8a5ab-0bf5-428b-8d13-80d678373932

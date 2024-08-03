@@ -1,0 +1,24 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å¨²úùÿÿÿÿ8ççæ©2J$76fc5117-e951-4a98-8194-20fffb9bf140
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ççæ©2J$8e8e03be-1ce9-4a18-bbe3-8e9874f65deb
+	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8íé©2J$789d1000-b233-40a4-9ab2-269bf37aee66
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Èº³8éçæ©2J$485df732-1631-4816-84e1-3df64ada0d56
+œ	java:S116"URename this field "ONE_SECOND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×„ğùÿÿÿÿ8éçæ©2J$17643cab-3687-4f6f-bded-79b610854b70
+i
+java:S1170"!Make this final field static too.(©×„ğùÿÿÿÿ8éçæ©2J$0a22f169-dbee-435e-b060-6130958a6116
+‚
+java:S1612"?Replace this lambda with method reference 'this::daemonThread'.(·½Ú‚8êçæ©2J$bd1fce47-96a8-460c-9a39-e6230cf4ced5
+s
+java:S2446#"0"notify" may not wake up the appropriate thread.(­ÀôÉ8êçæ©2J$384c85d1-cf7b-4e64-bdcb-2ed3ec0dacbb
+¦
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8êçæ©2J$3e8cbaf0-b4a4-4777-8d42-8dc81dd90160
+m	java:S106("+Replace this use of System.out by a logger.(ö¬8êçæ©2J$5fee6ca5-0862-437c-9492-b1a3b4f948a3
+¡
+java:S21423"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8òé©2J$6d80b298-98f2-4610-b9fc-f5cb19190cd0
+}
+java:S22742":Remove this call to "wait" or move it into a "while" loop.(Šä8òé©2J$4e32d5a0-5e6a-4e96-9d12-638eea17bf68
+m	java:S1069"+Replace this use of System.out by a logger.(ÆÀûı8àÅç©2J$cb37ad58-3f1f-4a59-a3a2-87adb677f227
+v
+java:S1068".Remove this unused "ONE_SECOND" private field.(©×„ğùÿÿÿÿ8ëçæ©2J$8c21ea25-8878-4bb4-ba03-b046ac997b05

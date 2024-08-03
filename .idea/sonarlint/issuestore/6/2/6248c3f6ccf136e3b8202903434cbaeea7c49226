@@ -1,0 +1,9 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãžýÿÿÿÿJ$69e0e340-02a4-406e-8b8b-af3944f7850c
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦J$21b1f9bc-5422-4f7c-96c1-1a28de1b2105
+|	java:S125"<This block of commented-out lines of code should be removed.(Î°ùêýÿÿÿÿJ$f589c12f-2b1c-4e69-857e-94aebacc611d
+“
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(—øãžýÿÿÿÿJ$cb130fc4-ff98-4a7e-b381-a4cf10ad3800
+k	java:S106F"+Replace this use of System.out by a logger.( È³åùÿÿÿÿJ$2bc6411b-66fc-48ce-9b9d-fe82205d2d59
+k	java:S106G"+Replace this use of System.out by a logger.(Õ¦ÏÛøÿÿÿÿJ$049d0598-178e-46b5-9b8d-3fb03320af10
+f	java:S106H"+Replace this use of System.out by a logger.(®¸ÏÍJ$03579158-9e41-44eb-8262-9b8f1262e818

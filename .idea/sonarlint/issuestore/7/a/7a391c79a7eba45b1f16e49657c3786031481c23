@@ -1,0 +1,18 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ç§¸8ƒøñÁ„2J$29e0da88-1046-43c1-bf5a-bf0fed22b38b
+r
+java:S3740*"/Provide the parametrized type for this generic.(æê‚Ï8ƒøñÁ„2J$2285951a-81f2-4030-ab0e-dc4a359cb5dd
+r
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8…øñÁ„2J$8235bdc1-abba-45de-b7b6-95d00b1ef5f8
+r	java:S106"+Replace this use of System.out by a logger.(æƒ–Ñıÿÿÿÿ8†øñÁ„2J$a568dfb3-7d36-42d3-9017-a76cff349971
+m	java:S106 "+Replace this use of System.out by a logger.(Û‚öà8†øñÁ„2J$287e1b21-7427-488c-b16e-3917ca2f9230
+m	java:S106&"+Replace this use of System.out by a logger.(ÓÎú€8†øñÁ„2J$7b2639f0-3311-4760-b1d9-e8c4e837c318
+}
+java:S2209)"5Change this instance-reference to a static reference.(ÜÏ¨éûÿÿÿÿ8—‚Â„2J$8100420d-9069-455a-aaf2-f7c7fc6ed9a4
+x
+java:S2209*"5Change this instance-reference to a static reference.(æê‚Ï8—‚Â„2J$e9f92aa7-9d9c-4e43-a718-4b6fc1e3314b
+x
+java:S2209+"5Change this instance-reference to a static reference.(ÅĞ»Ô8—‚Â„2J$716281a0-d0f2-4c3b-a292-a65f315e3bae
+m	java:S106-"+Replace this use of System.out by a logger.(Çáèí8†øñÁ„2J$c3ea6215-760e-4623-86a0-b0af49fb32db
+m	java:S106."+Replace this use of System.out by a logger.(±Œòã8†øñÁ„2J$56664b0d-24be-48ca-96bb-4a1d767cb294

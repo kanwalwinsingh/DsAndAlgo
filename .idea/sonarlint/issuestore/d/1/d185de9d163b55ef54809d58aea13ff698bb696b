@@ -1,0 +1,11 @@
+
+®
+java:S1319"fThe type of "result" should be an interface such as "List" rather than the implementation "ArrayList".(¿¤œëüÿÿÿÿ8‰íáƒ2J$93927ec3-aab4-4b39-ae36-46c940b01c21
+¸
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(éƒÄüÿÿÿÿ8‰íáƒ2J$43ebc7de-0806-4b80-b1c0-f488cee46a04
+‹
+java:S1192("HDefine a constant instead of duplicating this literal "dormant" 3 times.(ÿ÷¶ë8Ş¡éƒ2J$5ff29e53-bf1e-440b-8d88-4b8ca464dd58
+r	java:S106."+Replace this use of System.out by a logger.(ÂÙãìûÿÿÿÿ8á¡éƒ2J$c6a8bfbe-dfb1-4a74-976f-93c5a3adf325
+r	java:S1061"+Replace this use of System.out by a logger.(ê×„ñúÿÿÿÿ8á¡éƒ2J$b2421f18-2b59-4342-acb3-f3654e2d0e56
+r	java:S1066"+Replace this use of System.out by a logger.(ƒÖé°şÿÿÿÿ8á¡éƒ2J$7f2d149f-d35d-44f4-bc04-9f4b72407b18
+m	java:S1067"+Replace this use of System.out by a logger.(±Œòã8á¡éƒ2J$03aad0c7-0b79-4da5-9daf-aed997adc7db

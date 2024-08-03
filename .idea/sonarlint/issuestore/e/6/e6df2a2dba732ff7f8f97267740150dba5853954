@@ -1,0 +1,28 @@
+
+f
+java:S1192("IDefine a constant instead of duplicating this literal "abc --- " 4 times.(»ΫΘΨ8†Μι›ƒ2
+G
+java:S1197"*Move the array designators [] to the type.(›®•η8Μι›ƒ2
+L
+java:S1197
+"*Move the array designators [] to the type.(δ¥ΏΖψÿÿÿÿ8Μι›ƒ2
+m	java:S106"+Replace this use of System.out by a logger.(€ΡΫΟ8Χλωƒ2J$aa7a83c9-51df-4b5d-9064-aba9b8d7bb74
+I
+java:S1125"'Remove the unnecessary boolean literal.(βΑ®ÿÿÿÿÿ8‰Μι›ƒ2
+G	java:S106"+Replace this use of System.out by a logger.(ΙΩΊ¬8‰Μι›ƒ2
+L	java:S106"+Replace this use of System.out by a logger.(¶¬Γÿÿÿÿÿ8‰Μι›ƒ2
+G	java:S106"+Replace this use of System.out by a logger.(ΉΈ·8‰Μι›ƒ2
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ω›Ίÿÿÿÿÿ8‰Μι›ƒ2
+G	java:S106 "+Replace this use of System.out by a logger.(¬Ο•έ8‰Μι›ƒ2
+G	java:S106""+Replace this use of System.out by a logger.(ΎªΪ8‰Μι›ƒ2
+G	java:S106$"+Replace this use of System.out by a logger.(δ―«υ8Μι›ƒ2
+I
+java:S1125&"'Remove the unnecessary boolean literal.(νγ…ψÿÿÿÿ8Μι›ƒ2
+G	java:S106("+Replace this use of System.out by a logger.(»ΫΘΨ8Μι›ƒ2
+F	java:S106*"+Replace this use of System.out by a logger.(ά‰Ρ`8Μι›ƒ2
+G	java:S106,"+Replace this use of System.out by a logger.(Ίƒέ£8Μι›ƒ2
+I
+java:S1125/"'Remove the unnecessary boolean literal.(νγ…ψÿÿÿÿ8Μι›ƒ2
+G	java:S1060"+Replace this use of System.out by a logger.(»ΫΘΨ8Μι›ƒ2
+G	java:S1061"+Replace this use of System.out by a logger.(Ίƒέ£8Μι›ƒ2

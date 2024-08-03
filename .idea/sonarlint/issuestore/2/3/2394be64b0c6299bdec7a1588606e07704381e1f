@@ -1,0 +1,10 @@
+
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÕÔ›¾8ŠÜ¥Ùƒ2J$04909be1-6cea-4683-991d-bd7c0191df60
+m
+java:S1197"*Move the array designators [] to the type.(ÕÔ›¾8ŠÜ¥Ùƒ2J$58a7e626-94c0-445c-b841-8fc8ebc3dd18
+r
+java:S1197#"*Move the array designators [] to the type.(º ìıÿÿÿÿ8–ú¨Ùƒ2J$b32f4a88-2ccb-49a7-bafb-4db65a77d42e
+m
+java:S1197%"*Move the array designators [] to the type.(Ê¹õú8–ú¨Ùƒ2J$e31d577b-0255-486c-b395-ac2d38741865
+m	java:S106&"+Replace this use of System.out by a logger.(İ¸ùœ8–ú¨Ùƒ2J$73cf980e-efdc-4394-8313-59a5aa37104b

@@ -1,0 +1,17 @@
+
+m
+java:S1104"QMake coins a static final constant or non-public and provide accessors if needed.(Şš´8×åçöƒ2
+’
+java:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Åó”Èÿÿÿÿÿ8Øåçöƒ2
+G
+java:S1444"+Make this "public static coins" field final(Şš´8Øåçöƒ2
+h
+java:S1192"FDefine a constant instead of duplicating this literal " --> " 4 times.(İë³Ïûÿÿÿÿ8Øåçöƒ2
+9
+java:S2386"Make this member "protected".(Şš´8Ùåçöƒ2
+L
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ8Úåçöƒ2
+L	java:S106"+Replace this use of System.out by a logger.(İë³Ïûÿÿÿÿ8Úåçöƒ2
+L	java:S106"+Replace this use of System.out by a logger.(İë³Ïûÿÿÿÿ8Úåçöƒ2
+L	java:S106 "+Replace this use of System.out by a logger.(İë³Ïûÿÿÿÿ8Úåçöƒ2
+L	java:S106#"+Replace this use of System.out by a logger.(İë³Ïûÿÿÿÿ8Úåçöƒ2

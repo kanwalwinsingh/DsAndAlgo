@@ -1,0 +1,12 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÄÒşÿÿÿÿ8“Êşö‹2J$da37d8b8-8083-4442-9e96-cd74d3d3c222
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8“Êşö‹2J$464f54a1-9be0-4dcf-976b-fe21a4e61727
+m	java:S106"+Replace this use of System.out by a logger.(×—©8•Êşö‹2J$16202549-a193-4d1d-a9eb-71d97e2f7dde
+x
+java:S1854&"5Remove this useless assignment to local variable "n".(——ëş8•Êşö‹2J$caf1a3bd-f851-4a5d-b69d-7370848584e6
+r
+java:S1197#"*Move the array designators [] to the type.(º ìıÿÿÿÿ8•Êşö‹2J$94d453e6-d40c-4eee-a619-092e018c1824
+i
+java:S1481&"&Remove this unused "n" local variable.(——ëş8•Êşö‹2J$e5b11ba0-54d1-4d53-b070-9d6be5420e64
+m
+java:S1197*"*Move the array designators [] to the type.(ğæğ¬8•Êşö‹2J$1b0a60e6-adec-46fe-8961-ee05497d4463

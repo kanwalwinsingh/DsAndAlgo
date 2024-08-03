@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾º˜çıÿÿÿÿ8ÄÔıÇ„2
+S
+java:S2589"7Remove this expression which always evaluates to "true"(Ä´®8ÄÔıÇ„2
+L
+java:S3740"/Provide the parametrized type for this generic.(«ì†8ÄÔıÇ„2
+L
+java:S3740I"/Provide the parametrized type for this generic.(€ßÏá8ÄÔıÇ„2
+G	java:S106D"+Replace this use of System.out by a logger.(®ïœ8ÇÔıÇ„2
+L	java:S106F"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÇÔıÇ„2
+L	java:S106H"+Replace this use of System.out by a logger.(ÒÃÇ»ıÿÿÿÿ8ÇÔıÇ„2
+L	java:S106K"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÈÔıÇ„2
+G	java:S106N"+Replace this use of System.out by a logger.(¥­Ÿ8ÈÔıÇ„2

@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£€§8¦ÅÏ¤2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£€§8¦ÅÏ¤2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¿ÿ–8¦ÅÏ¤2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ†üĞøÿÿÿÿ8¦ÅÏ¤2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8¦ÅÏ¤2
+H
+java:S1659	"&Declare "balanceB" on a separate line.(ª¥Äïşÿÿÿÿ8©ÅÏ¤2
+K
+java:S1659
+")Declare "minBalanceB" on a separate line.(›øéşÿÿÿÿ8©ÅÏ¤2
+G	java:S106 "+Replace this use of System.out by a logger.(ÒŞí´8©ÅÏ¤2

@@ -1,0 +1,8 @@
+
+[
+java:S5993"9Change the visibility of this constructor to "protected".(‚Çúùûÿÿÿÿ8ûû³ÎŒ2
+O
+java:S1144"2Remove this unused private "privateMethod" method.(©¼÷¸8ûû³ÎŒ2
+L	java:S106"+Replace this use of System.out by a logger.(À§ ¹üÿÿÿÿ8üû³ÎŒ2
+L	java:S106"+Replace this use of System.out by a logger.(˜çª¤şÿÿÿÿ8üû³ÎŒ2
+G	java:S106 "+Replace this use of System.out by a logger.(ˆö©8üû³ÎŒ2

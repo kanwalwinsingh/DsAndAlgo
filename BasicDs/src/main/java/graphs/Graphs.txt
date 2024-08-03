@@ -1,0 +1,12 @@
+Degree of vertex:- total number of edges to the graph
+In-Degree:- total number of incoming edges connected to a vertex.
+Out-Degree:- total number of outgoing edges connected to a vertex.
+parallel edges:- two or more edges that are incident to the same two vertices
+Self loop:- Same endpoints of an edge eg pair(x,y)
+
+Two ways to represent graph
+1) Adjacency matrix
+2) Adjacency list
+
+Bipartite graph:- it is a special kind of graph, in which the vertices can be divided into two disjoint sets U and V such that no
+vertex of u is adjacent to any other vertex in U and no vertex of V is adjacent to any other vertex in v. vertcies in U have edges that connect it ot vertices v.

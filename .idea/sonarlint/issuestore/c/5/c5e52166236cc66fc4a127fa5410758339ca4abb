@@ -1,0 +1,9 @@
+
+
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(íÑ…¨ÿÿÿÿÿ8èõ†¤…2J$545afb7b-d474-4868-af54-8256f3a50c90
+•
+java:S1192"MDefine a constant instead of duplicating this literal "good morning" 3 times.(Ã±ÊÇüÿÿÿÿ8Ú…‰¤…2J$abc783d0-cf4f-42af-b675-194c30ca7591
+r	java:S106'"+Replace this use of System.out by a logger.(Ñ©°àÿÿÿÿÿ8ä…‰¤…2J$580129bd-f3d0-4b1b-b43e-be4e96b0209a
+r	java:S106("+Replace this use of System.out by a logger.(ˆ¢°ûÿÿÿÿ8ä…‰¤…2J$d543ffe7-73b5-429a-add4-dc32730131ce
+r	java:S106)"+Replace this use of System.out by a logger.(€§«©şÿÿÿÿ8ä…‰¤…2J$9bffb8c8-dafe-42f1-b832-97a8e80fca3f
+m	java:S106*"+Replace this use of System.out by a logger.(§Í»8å…‰¤…2J$f3fd1ce2-add6-4c79-a111-ba4146ac19c1

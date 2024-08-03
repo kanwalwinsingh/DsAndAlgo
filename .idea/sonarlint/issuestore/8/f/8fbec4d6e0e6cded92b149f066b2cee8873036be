@@ -1,0 +1,11 @@
+
+„
+java:S4973#"<Strings and Boxed types should be compared using "equals()".(ò•Ä½øÿÿÿÿ8†Òâğƒ2J$c8e151ae-3bfe-42fa-875d-8adf6efc2724
+„
+java:S4973&"<Strings and Boxed types should be compared using "equals()".(Ñ—ƒúÿÿÿÿ8†Òâğƒ2J$630131bc-7fcf-4e23-9be0-055f86df10ae
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8†Òâğƒ2J$6ff3b8dc-e027-4ba4-9e97-9016fd54105b
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÜØ´Î8ˆÒâğƒ2J$6e03fb42-1c81-44e7-a8d1-58b0cd5bfbc2
+r
+java:S1197>"*Move the array designators [] to the type.(º ìıÿÿÿÿ8‰Òâğƒ2J$00a6dc08-2623-4d8c-a16e-ab2366fca454
+r	java:S106D"+Replace this use of System.out by a logger.(¼Óúƒşÿÿÿÿ8‰Òâğƒ2J$aebf7624-4669-43f8-b885-768862a66ccf

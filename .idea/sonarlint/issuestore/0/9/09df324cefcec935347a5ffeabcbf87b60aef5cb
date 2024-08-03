@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šˆ“²8ğÄé„ƒ2J$929fd8f8-a249-4807-b9fa-46cc4665ec81
+œ
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îœé‡8ñÄé„ƒ2J$101e3914-d6b6-41eb-9c62-dbcc3cfac976
+m	java:S106?"+Replace this use of System.out by a logger.(Š°—§8õÄé„ƒ2J$3bda45f4-636d-48b8-8ddd-09fd6aaaf428
+r	java:S106A"+Replace this use of System.out by a logger.(ÛòÔùÿÿÿÿ8õÄé„ƒ2J$1914769f-e5e7-4aaa-b1f2-b78a79fcc731
+r	java:S106C"+Replace this use of System.out by a logger.(›Ö‚øúÿÿÿÿ8õÄé„ƒ2J$c4a2e177-e519-44f7-b7ab-81e6530c4224
+m	java:S106D"+Replace this use of System.out by a logger.(±Œòã8õÄé„ƒ2J$0bf30241-82fd-49a8-9df6-75a536d5bd49
+t
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8öÄé„ƒ2J$6bb5afad-0d5c-492d-b71b-418bacc28524

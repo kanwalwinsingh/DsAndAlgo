@@ -1,0 +1,14 @@
+
+ª
+java:S1319"gThe type of "results" should be an interface such as "List" rather than the implementation "ArrayList".(ü’ÍÖ8ë¨…ó„2J$b5949a6e-7893-41e4-b3ee-143a26df646d
+³
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(îßßÊ8ë¨…ó„2J$8a7ae80c-be7b-460d-b383-b90fbbe80287
+r
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8â¨‰ó„2J$d850450f-8bce-4f0c-9ab2-da725b0631ae
+m	java:S106$"+Replace this use of System.out by a logger.(ˆ»õÊ8â¨‰ó„2J$dc80510a-909f-4d94-b83c-b226aaaf7bb5
+r	java:S106%"+Replace this use of System.out by a logger.(¥Èò‚ýÿÿÿÿ8â¨‰ó„2J$38e2f6ae-dc96-4ff2-a9d4-5e4157a7fe82
+m	java:S106&"+Replace this use of System.out by a logger.(ÛÏ“²8â¨‰ó„2J$68b2972e-ca8b-47da-a330-471d4390ef11
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8–æŠó„2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8–æŠó„2

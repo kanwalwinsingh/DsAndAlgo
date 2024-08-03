@@ -1,0 +1,14 @@
+
+d
+java:S1643H"Use a StringBuilder instead.(ÉðçŸüÿÿÿÿ8ƒç»Þ‚2J$290732e2-20bd-491c-9e15-78c86c5a289f
+_
+java:S1643J"Use a StringBuilder instead.(óÊÙ‹8„ç»Þ‚2J$28993abe-ae70-4626-a8e5-4a4c80f50c88
+s
+java:S1481"+Remove this unused "result" local variable.(Ó°¬Ñøÿÿÿÿ8…ç»Þ‚2J$aaa0a627-8f5d-4130-92ba-35e9dabc0489
+r
+java:S11973"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8†ç»Þ‚2J$66093214-33fc-423c-9502-005779231826
+m	java:S106R"+Replace this use of System.out by a logger.(îŸÆõ8†ç»Þ‚2J$921672ff-ec20-4d78-9fa5-3c0653da0482
+r	java:S106T"+Replace this use of System.out by a logger.(üÆÞŒþÿÿÿÿ8†ç»Þ‚2J$ec3ed7b1-4931-4832-8720-c30fc0aa5534
+r	java:S106U"+Replace this use of System.out by a logger.(øÙÌ†þÿÿÿÿ8†ç»Þ‚2J$65a892d3-a7f5-4da2-9647-9dca2398961b
+m	java:S106V"+Replace this use of System.out by a logger.(„ªô¡8†ç»Þ‚2J$cea066cc-d742-44b9-bf71-35ea42a276fc
+m	java:S106W"+Replace this use of System.out by a logger.(±Œòã8†ç»Þ‚2J$efa271b7-4941-4823-97d5-6c77ba415f42

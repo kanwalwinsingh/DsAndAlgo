@@ -1,0 +1,18 @@
+
+˜	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÛÓ•úÿÿÿÿ8Ş†ùúƒ2J$55d09d8e-5cfe-41c1-9e47-7936d1462fe2
+˜	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÛÓ•úÿÿÿÿ8Ş†ùúƒ2J$45285731-ccc8-4a5f-ac57-e2d3f409cb4b
+w
+java:S1066""/Merge this if statement with the enclosing one.(ñ˜‚øÿÿÿÿ8Ş†ùúƒ2J$5364b543-2241-42d0-8bd0-8be94d1dee74
+l	java:S106"+Replace this use of System.out by a logger.(ĞØ”Q8á†ùúƒ2J$74d02fec-8597-4af3-8ded-a27e81be4d7d
+m	java:S106"+Replace this use of System.out by a logger.(Ô‡œ8á†ùúƒ2J$119b19ce-e27c-4dae-a481-53e263c861b8
+r	java:S106"+Replace this use of System.out by a logger.(¬Éåµüÿÿÿÿ8á†ùúƒ2J$cc5a7113-900d-4c19-bd95-bc708e693ba5
+m	java:S106("+Replace this use of System.out by a logger.(«ı¦8á†ùúƒ2J$34d416f6-4d21-407a-a4f1-79d616d60de2
+r	java:S106/"+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ8á†ùúƒ2J$758f1092-9140-422f-aa41-9986284d82d5
+m	java:S1061"+Replace this use of System.out by a logger.(•ô±´8á†ùúƒ2J$3620f0f7-8b4b-4ddd-bfcb-d5dae68e5f3b
+m	java:S1067"+Replace this use of System.out by a logger.(•ô±´8á†ùúƒ2J$d0d53304-5875-4f9a-aa73-b98ac63770e3
+m	java:S106F"+Replace this use of System.out by a logger.(é“³½8â†ùúƒ2J$3a3c3de9-1c94-4e86-adc4-100024ff3c20
+r	java:S106O"+Replace this use of System.out by a logger.(æ´Çƒûÿÿÿÿ8â†ùúƒ2J$aa707de1-a439-4f4e-8861-bd5e80f5ce91
+r	java:S106Q"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8â†ùúƒ2J$126190b8-33e3-43d9-a8eb-b4e739e6284c
+r	java:S106W"+Replace this use of System.out by a logger.(¿¿¯ûÿÿÿÿÿ8õ™€ûƒ2J$1d5c3607-f33d-4b22-99d4-6cc662c22b35
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8â†ùúƒ2J$5b17eb1d-88de-4c74-a5a4-41b718cdd497

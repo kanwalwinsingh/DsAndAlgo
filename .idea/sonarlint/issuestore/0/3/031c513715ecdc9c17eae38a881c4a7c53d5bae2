@@ -1,0 +1,23 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ïïÖŸ2J$26d5a6f4-4c87-4719-a28a-f9c04ddb2b94
+œ
+java:S1104"TMake capacity a static final constant or non-public and provide accessors if needed.(¸Á„€üÿÿÿÿ8ïïÖŸ2J$2b48c2f0-1147-4fdc-bb63-3c70bfd22d9a
+™
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(¸Á„€üÿÿÿÿ8ïïÖŸ2J$90f94b4c-b328-440c-bcb7-1f61e3760b9b
+j
+java:S1659""Declare "tail" on a separate line.(“à»Ìûÿÿÿÿ8ñïÖŸ2J$cac22678-8b6c-4e90-820d-8384b781914c
+k
+java:S1659"#Declare "count" on a separate line.(¸Á„€üÿÿÿÿ8ñïÖŸ2J$51121387-b2ea-476c-8878-cc04a91ef521
+e
+java:S1659""Declare "next" on a separate line.(§¾æË8ñïÖŸ2J$5292bc2f-cc3e-42e0-a065-f5b0596b7134
+k
+java:S1659"#Declare "value" on a separate line.(ğ™”‹ÿÿÿÿÿ8ñïÖŸ2J$16386403-72d5-4c70-aafd-5b5a66162bd6
+]	java:S125G"<This block of commented-out lines of code should be removed.(¬Ñåıÿÿÿÿ8•ÆÙŸ2
+L	java:S106I"+Replace this use of System.out by a logger.(ÀÏéÆÿÿÿÿÿ8•ÆÙŸ2
+]	java:S125H"<This block of commented-out lines of code should be removed.(õÎšÖşÿÿÿÿ8•ÆÙŸ2
+L	java:S106K"+Replace this use of System.out by a logger.(Úçïïıÿÿÿÿ8•ÆÙŸ2
+X	java:S125J"<This block of commented-out lines of code should be removed.(á·Ğ8•ÆÙŸ2
+G	java:S106M"+Replace this use of System.out by a logger.(½Á–»8–ÆÙŸ2
+X	java:S125L"<This block of commented-out lines of code should be removed.(ºàº8–ÆÙŸ2
+L	java:S106N"+Replace this use of System.out by a logger.(£Ù‡îúÿÿÿÿ8–ÆÙŸ2
+L	java:S106O"+Replace this use of System.out by a logger.(¸®Šáùÿÿÿÿ8–ÆÙŸ2

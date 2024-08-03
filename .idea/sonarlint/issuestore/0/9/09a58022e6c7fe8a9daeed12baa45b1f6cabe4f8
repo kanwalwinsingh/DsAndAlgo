@@ -1,0 +1,21 @@
+
+•
+java:S1104@"RMake course a static final constant or non-public and provide accessors if needed.(¡º“8ÏåÂ¾…2J$02782156-265e-4221-9246-4d318f019cf5
+”
+java:S1104A"QMake cName a static final constant or non-public and provide accessors if needed.(â¶¤ß8ÏåÂ¾…2J$c1af5e60-2485-49eb-b9e1-f6a1d44d230d
+–
+java:S1104B"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8ÏåÂ¾…2J$02aa82f2-9fd9-4733-a8f4-8664bde4a4f0
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ã–…”şÿÿÿÿ8ÏåÂ¾…2J$f8bf642c-fb0c-4e45-b987-749ed9c7170b
+Š
+java:S1192M"GDefine a constant instead of duplicating this literal "course" 6 times.(ö‹ãç8ÏåÂ¾…2J$62a13530-0906-469d-be0b-9377318fe574
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÕÆ‡ıÿÿÿÿ8ÒåÂ¾…2J$fdb7611a-998d-426b-b33b-0786e811fea5
+r
+java:S1197J"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ÔåÂ¾…2J$26705c2f-2259-4fd6-a0c9-9376b748b195
+r	java:S106O"+Replace this use of System.out by a logger.(¢¨ÃÒûÿÿÿÿ8ÔåÂ¾…2J$faf258fb-1d98-4bb9-849d-9079370e5058
+q
+java:S2140Q")Use "java.util.Random.nextInt()" instead.(ÏâÔÊşÿÿÿÿ8ÔåÂ¾…2J$91105791-d8c6-4ede-bd2d-4c597e045b88
+r	java:S106R"+Replace this use of System.out by a logger.(Ù¢óÕıÿÿÿÿ8ÕåÂ¾…2J$da484173-6f05-4ca4-be24-d62d9b9d040c
+l	java:S106S"+Replace this use of System.out by a logger.(¼ã’8ÕåÂ¾…2J$534cdea2-3952-4938-aa95-13f07af8117d
+m	java:S106T"+Replace this use of System.out by a logger.(„³‰»8ÕåÂ¾…2J$577103b5-a5d8-4a6b-8eb4-abb313d3beec
+m	java:S106V"+Replace this use of System.out by a logger.(±Œòã8ÕåÂ¾…2J$847d4e61-4498-4b70-9b1e-865cb92dcb32

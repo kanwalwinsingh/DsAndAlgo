@@ -1,0 +1,12 @@
+
+Ž
+java:S11925"FDefine a constant instead of duplicating this literal " --> " 4 times.(ÈÛàÆûÿÿÿÿ8¼‰«€„2J$7293ea94-51e4-40db-83a9-b45a1632535e
+p
+java:S1659"(Declare "rightLimit" on a separate line.(ÆÕ‰äúÿÿÿÿ8ï‰˜€„2J$07d0b485-54fb-4328-bbb8-72d2bce21a41
+r
+java:S1197."*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8¾‰«€„2J$a2481e7d-7c62-446c-916a-20d44d5ee45b
+m	java:S1064"+Replace this use of System.out by a logger.(¼¨¤¼8¾‰«€„2J$b2ceb289-d9e6-41ae-8291-d16e23e2ce81
+r	java:S1065"+Replace this use of System.out by a logger.(ÈÛàÆûÿÿÿÿ8¾‰«€„2J$6316b257-41b4-4841-bc26-c3b86304c103
+r	java:S1066"+Replace this use of System.out by a logger.(Ø’ÙÅÿÿÿÿÿ8¾‰«€„2J$66d1d1a0-9caa-4584-9c20-74810970dade
+m	java:S1067"+Replace this use of System.out by a logger.(œÆè˜8¾‰«€„2J$6b891142-2c9c-4ba3-af17-158c721b5a37
+m	java:S1068"+Replace this use of System.out by a logger.(¸ÅÜ¢8¿‰«€„2J$b70bdcbd-e4da-4895-b94a-4315994c3ab0

@@ -1,0 +1,11 @@
+
+¡
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä‡ˆÝûÿÿÿÿ8ÝÞñ–…2J$bc9c308f-6f0a-4147-a575-ed4632b9c62c
+•
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(æù…–8›íì–…2J$09e75885-d30d-4284-931b-4120d867ff56
+r
+java:S1197&"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8äÞñ–…2J$e2a51d0a-b824-4ff3-b619-d0b56277beb6
+m	java:S1062"+Replace this use of System.out by a logger.(Š‹“„8åÞñ–…2J$5d0bce71-f2be-4f76-a74e-09e97db30816
+r	java:S1064"+Replace this use of System.out by a logger.(Âàééùÿÿÿÿ8åÞñ–…2J$f18c2381-eff9-4cef-9e84-71c543056f24
+]	java:S1253"<This block of commented-out lines of code should be removed.(ÚÆŸÍûÿÿÿÿ8¼Çò–…2
+m	java:S1065"+Replace this use of System.out by a logger.(±Œòã8æÞñ–…2J$63786399-b99e-4786-bdc1-01d21aad05e8

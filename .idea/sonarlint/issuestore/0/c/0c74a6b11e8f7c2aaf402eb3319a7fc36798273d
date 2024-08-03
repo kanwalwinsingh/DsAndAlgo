@@ -1,0 +1,9 @@
+
+^
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8„ªë„2J$e2901e8d-669e-4937-b969-e00baa1c8ea6
+u
+java:S1659"-Declare "smalllestNumber" on a separate line.(¥ÑëÈûÿÿÿÿ8„ªë„2J$89787a75-9395-4085-8e8d-16dc770b9e72
+
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(‹¯Ó²8„ªë„2J$aaa4106a-f07e-4fd4-86b1-6c6ff2e7c7b3
+r	java:S106G"+Replace this use of System.out by a logger.(“‹’ƒıÿÿÿÿ8»¡«ë„2J$9420900e-e106-465a-b88c-a129fd1524ff
+m	java:S106K"+Replace this use of System.out by a logger.(±Œòã8»¡«ë„2J$7b631dbe-edee-46b5-8dbc-cb2575a7f996

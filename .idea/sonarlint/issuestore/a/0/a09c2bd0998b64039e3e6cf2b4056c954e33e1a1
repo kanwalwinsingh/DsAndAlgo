@@ -1,0 +1,16 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¬Ğíùÿÿÿÿ8ü¹Í‹2J$4146eb74-2306-4b28-9112-169fb65e10df
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¬Ğíùÿÿÿÿ8ü¹Í‹2J$4715a630-81ef-40b4-85fd-8ec7dfe91624
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¬Ğíùÿÿÿÿ8ü¹Í‹2J$d7db8b16-a0fd-40bd-be5e-1594afa06c84
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¼ş:8ü¹Í‹2J$c513ae2c-6b0b-4eec-9707-b1bd7400e9ae
+p
+java:S1172"(Remove this unused method parameter "M".(Ñ¬Ğíùÿÿÿÿ8’ü¹Í‹2J$05db4035-9eb3-4c84-a9a9-24dc8bec9aa4
+r	java:S106"+Replace this use of System.out by a logger.(ÒÔÂ¦øÿÿÿÿ8’ü¹Í‹2J$72087f6f-3cd5-4d34-b50f-0cd6100cb3bf
+}	java:S125-"<This block of commented-out lines of code should be removed.(İ¡á58©ËÀÍ‹2J$ec246ee9-dbd0-4692-9713-7a4db30829f8
+m	java:S1062"+Replace this use of System.out by a logger.(àÓ¨¨8¸§¿Í‹2J$ed4551e1-94c6-4897-b649-d128f4aab6f0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ª¢ÂÍ‹2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ª¢ÂÍ‹2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ª¢ÂÍ‹2

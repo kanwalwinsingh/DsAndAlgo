@@ -1,0 +1,13 @@
+
+l	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ˆ›N8˜´ØÄŒ2
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¿´µþÿÿÿÿ8™´ØÄŒ2
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ð¯œøÿÿÿÿ8™´ØÄŒ2
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥Æ»8™´ØÄŒ2
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¯èÊ8™´ØÄŒ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8™´ØÄŒ2
+j
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(â²ñ×úÿÿÿÿ8™´ØÄŒ2
+L	java:S106*"+Replace this use of System.out by a logger.(‹±õ¸þÿÿÿÿ8œ´ØÄŒ2
+L	java:S106+"+Replace this use of System.out by a logger.(ˆñé¢øÿÿÿÿ8œ´ØÄŒ2
+L	java:S106,"+Replace this use of System.out by a logger.(¿øÜ¾þÿÿÿÿ8œ´ØÄŒ2
+F	java:S106-"+Replace this use of System.out by a logger.(¯¾ÁT8œ´ØÄŒ2

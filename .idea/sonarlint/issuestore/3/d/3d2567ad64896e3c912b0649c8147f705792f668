@@ -1,0 +1,13 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ’ğ¯8¸²«·‹2J$217f1b35-5a17-4949-adbc-34b087d26da8
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ’ğ¯8¸²«·‹2J$e3eb636c-cd6f-47e5-8b37-5079800135bf
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¼ş:8¸²«·‹2J$b032ad72-fca7-4b40-a990-74f7cc0c4b3b
+}
+java:S1854"5Remove this useless assignment to local variable "n".(ß¿‡úÿÿÿÿ8º²«·‹2J$3f063b4c-45bf-483b-9f08-de3d48343ba0
+n
+java:S1481"&Remove this unused "n" local variable.(ß¿‡úÿÿÿÿ8»²«·‹2J$725cdd32-eeaf-4af5-8830-e658730863d1
+e
+java:S1659""Declare "gcdB" on a separate line.(Êˆ¡8¼²«·‹2J$a753a7cf-d470-45da-8669-42c1696e0806
+z
+java:S1135+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Şğ¬·‹2J$616daf1d-e9c0-453c-b169-09ea67bd6303
+m	java:S106/"+Replace this use of System.out by a logger.(àÓ¨¨8Şğ¬·‹2J$4fbb95df-733a-48a8-b383-61588d9f3f78

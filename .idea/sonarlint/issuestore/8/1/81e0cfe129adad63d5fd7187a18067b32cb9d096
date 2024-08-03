@@ -1,0 +1,12 @@
+
+œ
+java:S1104"TMake vertices a static final constant or non-public and provide accessors if needed.(þýüˆýÿÿÿÿ8ÙØ­Í‚2J$37627c51-2db9-400e-91eb-7f6a8cc4822d
+¡
+java:S1104"YMake adjacencyList a static final constant or non-public and provide accessors if needed.(·Ú²¿úÿÿÿÿ8Ý«ÀÍ‚2J$4626e693-83bd-45dd-9595-2d60f82d767c
+k
+java:S1197"*Move the array designators [] to the type.(·Ú²¿úÿÿÿÿJ$8553ce5e-06c5-4336-b968-60a28d335fff
+w	java:S125"<This block of commented-out lines of code should be removed.(ÝÎÐJ$4fb4159b-ba4a-493d-9002-2a268381e645
+f	java:S106"+Replace this use of System.out by a logger.(‘‹ ¾J$366e4598-30a6-493b-bda1-0d7920d3c95a
+f	java:S106 "+Replace this use of System.out by a logger.(îž™—J$6ffcdc41-6eaa-4f42-8f71-5a7dde926f47
+k	java:S106#"+Replace this use of System.out by a logger.(Âû¯ÐüÿÿÿÿJ$cbb3f70f-2e1e-498b-8cac-4468c35a6726
+k	java:S106&"+Replace this use of System.out by a logger.(ïûÀ¦þÿÿÿÿJ$24dc42c7-52e0-4f3b-ac0c-71f478a8d817

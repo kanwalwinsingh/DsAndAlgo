@@ -1,0 +1,9 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•˜‚Æ8şÌÒ÷ƒ2J$be4ad81c-df7c-4aa3-92e3-12218a23b6a9
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Æşßüÿÿÿÿ8ÍÒ÷ƒ2J$380131df-212c-4449-8a2e-ebb4388cfcff
+r
+java:S1197"*Move the array designators [] to the type.(”Æşßüÿÿÿÿ8ÍÒ÷ƒ2J$f771776e-96b2-47e6-b47f-da827dbb3564
+n
+java:S1659"+Declare "secondMinimum" on a separate line.(ƒë“Ü8ÍÒ÷ƒ2J$8f5f0bf2-aafe-429a-9798-f0ae0d4b895d
+m	java:S106'"+Replace this use of System.out by a logger.(Î—Ø8ÍÒ÷ƒ2J$1fef72d2-385f-4e76-a365-8db78c7914e5
+m	java:S106)"+Replace this use of System.out by a logger.(˜ò¤¶8ÍÒ÷ƒ2J$8a3072c9-5a07-41bd-bb0d-ff82f496e0d8

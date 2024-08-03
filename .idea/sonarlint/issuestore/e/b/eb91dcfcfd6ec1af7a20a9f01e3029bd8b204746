@@ -1,0 +1,14 @@
+
+f
+java:S1192"JDefine a constant instead of duplicating this literal "TwoStacks" 5 times.(ôî¬>8µ½¸…2
+b
+java:S1192"FDefine a constant instead of duplicating this literal "push1" 8 times.(ôî¬>8µ½¸…2
+b
+java:S1192"FDefine a constant instead of duplicating this literal "push2" 8 times.(ôî¬>8µ½¸…2
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8¸½¸…2
+G	java:S106"+Replace this use of System.out by a logger.(Í‰‰ğ8¸½¸…2
+C	java:S131""Add a default case to this switch.(Ü®Ñªùÿÿÿÿ8º½¸…2
+L	java:S106""+Replace this use of System.out by a logger.(à®à™ıÿÿÿÿ8º½¸…2
+L	java:S106%"+Replace this use of System.out by a logger.(Æ…ç¯ıÿÿÿÿ8»½¸…2
+L	java:S106)"+Replace this use of System.out by a logger.(±ÒŠ¶şÿÿÿÿ8»½¸…2

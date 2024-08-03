@@ -1,0 +1,8 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÄìè8˜× öŠ2J$b7620786-3440-4833-8af6-a1816ba4d112
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8˜× öŠ2J$9c73830e-7d70-4c40-9aa6-ac4fa43583c2
+~	java:S125"<This block of commented-out lines of code should be removed.( äÁ8™× öŠ2J$7e220891-3ad4-42aa-bf07-f2d42bebf567
+k
+java:S1659"(Declare "bracketSum" on a separate line.(®¹ºŒ8™× öŠ2J$a2fc6479-cc5a-4abe-a8bd-349d3efcc4dd
+r	java:S106'"+Replace this use of System.out by a logger.(ì™Ÿğÿÿÿÿÿ8ÂÈ¢öŠ2J$d69044a9-2d4d-4dd1-ad17-b4b6fd586efb
+m	java:S106("+Replace this use of System.out by a logger.(ö«Á”8ÁÔ¥öŠ2J$6dc19ce0-2181-45c0-9647-20e408f54a8e

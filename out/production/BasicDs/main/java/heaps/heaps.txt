@@ -1,0 +1,12 @@
+A binary heap is a complete binary tree which satisfies the heap ordering property
+
+Heaps are implemented through Arrays, where each element of the array corespond to a node in binary treeand the value inside the node is called the key.
+Rules for a heap is
+1) A heap tree must be a complete binary tree. 2) The nodes must be ordered according to the heap property.
+
+A complete binary tree is a tree where each node has max of two childern an nodes at all level are completely filled except the leaf nodes.
+usage -> 1)Order statistics, 2)Priority Queue-> insert(), delete(), extractMax(), decreaseKey() operation is logn, heap implemented priority queue are used in graph algorithm like Prims Algo and Dijkastra Algo.
+3)Sorting-> heap sort uses the heap data structure insert() and delete() operation is O(logn)
+
+heap implemented by array is palced in sucha a way that first half of array are present at the n/2 of array and the leaf the last n/2. and last parent is at n/2th positioh
+left child = 2k+1, right child = 2k+2.

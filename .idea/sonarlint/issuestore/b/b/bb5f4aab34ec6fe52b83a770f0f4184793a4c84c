@@ -1,0 +1,18 @@
+
+`
+java:S2119"Save and re-use this "Random".(¼İÅf8º—¹Öƒ2J$579a84d5-fe98-4e8b-be2b-60852cea21fa
+}
+java:S6885"5Use "Math.clamp" instead of "Math.min" or "Math.max".(¦©í÷úÿÿÿÿ8º—¹Öƒ2J$007d349a-31fd-45e6-918c-e85e699fac80
+}
+java:S6885"5Use "Math.clamp" instead of "Math.min" or "Math.max".(¦©í÷úÿÿÿÿ8º—¹Öƒ2J$eede2ff9-8698-44f8-b691-02c6419d9322
+r
+java:S1197"*Move the array designators [] to the type.(å²–ğúÿÿÿÿ8º—¹Öƒ2J$e63e05f8-9037-41b6-b199-59f526513026
+r
+java:S1197!"*Move the array designators [] to the type.(é‚ß…úÿÿÿÿ8»—¹Öƒ2J$bdbe6b4a-2b53-4410-bccd-596e477e6d69
+L
+java:S1197+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8±ºÀÖƒ2
+G
+java:S1197,"*Move the array designators [] to the type.(üíøÄ8²ºÀÖƒ2
+G	java:S106/"+Replace this use of System.out by a logger.(œÂ™“8²ºÀÖƒ2
+W
+java:S22090"5Change this instance-reference to a static reference.(ä­şÆúÿÿÿÿ8²ºÀÖƒ2

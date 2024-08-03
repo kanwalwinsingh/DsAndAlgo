@@ -1,0 +1,20 @@
+
+’
+java:S1104	"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8ıÁ¥²2J$d10200b8-c715-4e9b-8cae-74e797f2f4af
+“
+java:S1104
+"PMake left a static final constant or non-public and provide accessors if needed.(ŠËÌç8şÁ¥²2J$60fb76cd-9f24-4f7d-90c4-99ec691decf9
+™
+java:S1104"QMake right a static final constant or non-public and provide accessors if needed.(ë™Ùµøÿÿÿÿ8şÁ¥²2J$1b3fd001-df5f-4fa2-bd37-b0780bcaaf42
+r	java:S106"+Replace this use of System.out by a logger.(İñõ€ûÿÿÿÿ8€Â¥²2J$a49b55e3-8e31-4c43-ab69-b8531db6b6d3
+r	java:S106""+Replace this use of System.out by a logger.(İñõ€ûÿÿÿÿ8€Â¥²2J$c88605ca-9376-400b-b20a-18941a56c12e
+r	java:S106."+Replace this use of System.out by a logger.(İñõ€ûÿÿÿÿ8Â¥²2J$44d34131-9978-420f-bf6a-cf974fe259bb
+m	java:S1068"+Replace this use of System.out by a logger.(ş²ãÔ8Â¥²2J$e0b9362c-bc5b-4261-9486-f5a2a327acf6
+L	java:S106n"+Replace this use of System.out by a logger.(Èğ¨ëıÿÿÿÿ8İÆ§²2
+L	java:S106q"+Replace this use of System.out by a logger.(»À§àşÿÿÿÿ8İÆ§²2
+G	java:S106s"+Replace this use of System.out by a logger.(àœìµ8İÆ§²2
+L	java:S106v"+Replace this use of System.out by a logger.(—Æé„üÿÿÿÿ8İÆ§²2
+F	java:S106y"+Replace this use of System.out by a logger.(ÊŠá8İÆ§²2
+F	java:S106|"+Replace this use of System.out by a logger.(„Â¹-8İÆ§²2
+}
+java:S1128"5Remove this unused import 'com.sun.source.tree.Tree'.(·óƒüıÿÿÿÿ8Â¥²2J$a9d681d8-28bc-4f64-ac23-9a200dd5b8d4

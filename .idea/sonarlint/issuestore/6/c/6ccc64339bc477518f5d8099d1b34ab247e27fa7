@@ -1,0 +1,12 @@
+
+^
+java:S2184"ACast one of the operands of this addition operation to a "float".(¡‚Ë”8Í¤Ä¾„2
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(õÜ”‹þÿÿÿÿ8Ï¤Ä¾„2
+C
+java:S1659"!Declare "end" on a separate line.(Û‚ÌÎøÿÿÿÿ8Ï¤Ä¾„2
+L	java:S1061"+Replace this use of System.out by a logger.(¡…›¡ýÿÿÿÿ8Ð¤Ä¾„2
+L	java:S1062"+Replace this use of System.out by a logger.(÷Ž‡Ìþÿÿÿÿ8Ð¤Ä¾„2
+G	java:S1063"+Replace this use of System.out by a logger.(±Œòã8Ð¤Ä¾„2
+z
+java:S1128"XRemove this unused import 'main.java.algorithms.slidingwindow.MinSubsequence.minWindow'.(Šéç•ûÿÿÿÿ8Ñ¤Ä¾„2

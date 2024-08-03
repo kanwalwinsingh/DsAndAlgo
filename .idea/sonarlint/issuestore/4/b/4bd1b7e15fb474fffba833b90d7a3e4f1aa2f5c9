@@ -1,0 +1,30 @@
+
+€
+java:S1854"8Remove this useless assignment to local variable "list".(¾Äşùÿÿÿÿ8‡Ì¢†2J$0f95c4db-bf36-4263-8ec5-6eaac707926e
+z
+java:S1854"7Remove this useless assignment to local variable "str".(–ïÔ¢8‡Ì¢†2J$abf863b4-e433-4ddb-9d9c-d5910a57d84e
+}
+java:S1854"5Remove this useless assignment to local variable "c".(¼îÚÿıÿÿÿÿ8‡Ì¢†2J$c8e2e0ac-cb51-417c-9369-410362336892
+x
+java:S1854"5Remove this useless assignment to local variable "d".(‡ƒ›™8‡Ì¢†2J$f978d777-f5e9-4391-baf5-5f46fe8bc438
+x
+java:S1854
+"5Remove this useless assignment to local variable "i".(šÖ¢8‡Ì¢†2J$57d1a122-7114-4156-9769-9faa70566af4
+i
+java:S1481
+"&Remove this unused "i" local variable.(šÖ¢8‡Ì¢†2J$eb3183cc-768f-48f0-83de-9f89ec657af2
+i
+java:S1481"&Remove this unused "d" local variable.(‡ƒ›™8ˆÌ¢†2J$5504b668-fef9-4638-8490-3908408a1195
+n
+java:S1481"&Remove this unused "c" local variable.(¼îÚÿıÿÿÿÿ8ˆÌ¢†2J$1a65b5e3-7983-46f6-8fb2-803efd0d74b6
+n
+java:S1481"&Remove this unused "b" local variable.(Ö·ÆÍûÿÿÿÿ8ˆÌ¢†2J$2f8fc82e-f923-4990-bec1-c9dc82b39af6
+k
+java:S1481"(Remove this unused "str" local variable.(–ïÔ¢8ˆÌ¢†2J$958a30df-9baa-4405-b023-c3e2b0af44f0
+q
+java:S1481")Remove this unused "list" local variable.(¾Äşùÿÿÿÿ8ˆÌ¢†2J$ba194993-7303-4fb9-a2c4-d306953cadf6
+¢
+java:S6204"_Replace this usage of 'Stream.collect(Collectors.toUnmodifiableList())' with 'Stream.toList()'.(ôíÒ‡8ˆÌ¢†2J$bcd65480-40c0-4967-998a-018cfe657991
+r	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8ˆÌ¢†2J$beaf1ff1-c7f0-4aed-9f81-63cc94f5699b
+r	java:S106"+Replace this use of System.out by a logger.(Øà¹ˆÿÿÿÿÿ8ˆÌ¢†2J$ef298907-3ee5-4481-af64-142c3d75c0de
+r	java:S106"+Replace this use of System.out by a logger.(Ø•¼Üûÿÿÿÿ8‰Ì¢†2J$5da53b54-0118-47dd-b757-db5bb6e13938

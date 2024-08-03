@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾º˜çýÿÿÿÿ8ÑÑ¸Ç„2
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ýû•ß8õ¯‹Ç„2J$fe410e0f-f6b3-448f-880c-5f1a3f61b897
+€
+java:S1854"8Remove this useless assignment to local variable "head".(´“×Íûÿÿÿÿ8ô¦ŠÇ„2J$2cea301d-9094-4221-8c0e-133298e33655
+j
+java:S1659
+""Declare "next" on a separate line.(¿ª‰“ýÿÿÿÿ8‚ç‡Ç„2J$07843578-9f52-4bbb-b579-7cc89cb6502a
+r	java:S106!"+Replace this use of System.out by a logger.(ƒ­Ãûûÿÿÿÿ8ù¯‹Ç„2J$1d015965-c7d0-40da-9932-2d0f8e504273
+r	java:S106#"+Replace this use of System.out by a logger.(ÒÃÇ»ýÿÿÿÿ8ù¯‹Ç„2J$669746b9-8de8-4d3b-8309-2077e295caed
+r	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ù¯‹Ç„2J$e204752c-f357-4b2f-9708-8dbb03ab8016
+m	java:S106&"+Replace this use of System.out by a logger.(±Œòã8ù¯‹Ç„2J$0ef54759-6e19-4ab4-b7b0-8356aba0d82e

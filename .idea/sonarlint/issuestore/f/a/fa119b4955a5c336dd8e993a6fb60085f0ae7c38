@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8™¦òè2
+v
+java:S1104"TMake children a static final constant or non-public and provide accessors if needed.(¢ğêºüÿÿÿÿ8™¦òè2
+t
+java:S1104"WMake isEndOfWord a static final constant or non-public and provide accessors if needed.(šÜòÁ8™¦òè2
+m
+java:S1104%"PMake root a static final constant or non-public and provide accessors if needed.(İËşÃ8™¦òè2
+]	java:S125"<This block of commented-out lines of code should be removed.(Ì ®Æÿÿÿÿÿ8›¦òè2
+L	java:S106Q"+Replace this use of System.out by a logger.(Ñ¢µ˜úÿÿÿÿ8¦òè2
+L	java:S106R"+Replace this use of System.out by a logger.(æç›üÿÿÿÿ8¦òè2
+G	java:S106S"+Replace this use of System.out by a logger.(²ë§8¦òè2
+L	java:S106U"+Replace this use of System.out by a logger.(„Šş‘úÿÿÿÿ8¦òè2
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¦òè2

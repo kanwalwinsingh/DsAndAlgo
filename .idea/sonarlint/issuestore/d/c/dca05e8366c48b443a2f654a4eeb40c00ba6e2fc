@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÛø¸8¹£¦©2J$b2049466-9365-4959-b383-a512b2f6d69c
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¹£¦©2J$50e51b3e-59fe-413d-a09a-fa923f7175b3
+	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¹£¦©2J$c3fd530f-db10-439d-bafe-b5a1f567dd36
+—	java:S116"URename this field "MAX_TOKENS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÈëš8º£¦©2J$dec7064b-51d7-422e-979d-addfb7a2601c
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8»£¦©2J$44bb65f9-fc0c-4e22-893b-51dc5fe11100
+‹
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8»£¦©2J$ea8904a2-0ad7-4edc-b0db-78d685f4e8d1
+m	java:S106"+Replace this use of System.out by a logger.(»Ï…8¼£¦©2J$66423f58-fef5-468a-8c17-9211f8ad554c
+¡
+java:S21421"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¾£¦©2J$f93511e9-9d93-4a07-bcf2-45acdc5b7934

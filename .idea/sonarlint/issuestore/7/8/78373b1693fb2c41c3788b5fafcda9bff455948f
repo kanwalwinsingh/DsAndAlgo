@@ -1,0 +1,17 @@
+
+ˆ
+java:S2259˜"DA "NullPointerException" could be thrown; "parent" is nullable here.(€‹Ü“8„Øö‚2J$e47be296-0f27-46bb-a3c0-354ca5561402
+ˆ
+java:S2259¦"DA "NullPointerException" could be thrown; "parent" is nullable here.(€‹Ü“8„Øö‚2J$2bd2a706-9641-47c9-a2ef-2e36f2a47933
+ˆ
+java:S2259·"DA "NullPointerException" could be thrown; "parent" is nullable here.(€‹Ü“8„Øö‚2J$e3bad0b6-8c01-4929-bb06-0c94442186fe
+•	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È›Øÿÿÿÿÿ8‡Øö‚2J$28615c55-54ca-4e76-9f29-1275a7614b17
+	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€æş8ˆØö‚2J$a16871cb-5601-4abe-8f7e-a61d8d945e94
+m	java:S106U"+Replace this use of System.out by a logger.(ºì¤í8ˆØö‚2J$8fa1153c-7016-4c34-a058-6416bbb94a74
+	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¬Œc8ˆØö‚2J$0605dc04-d42a-4a6a-914b-ea0eb5ca01ac
+r	java:S106u"+Replace this use of System.out by a logger.(ûé¿‰üÿÿÿÿ8‰Øö‚2J$fa6a15ff-3413-4bf8-94ef-f40cfea9148a
+•
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(—‹‚·8ŠØö‚2J$ca41001c-c188-4616-87b7-e6a13e528cac
+n	java:S106ß"+Replace this use of System.out by a logger.(è¨Šƒ8ŒØö‚2J$6969431e-e00c-40c7-9bec-47995b4e62a1
+n	java:S106è"+Replace this use of System.out by a logger.(è¨Šƒ8Øö‚2J$2d195ee0-0029-43b2-b3c9-e226293eebaa
+n	java:S106ò"+Replace this use of System.out by a logger.(è¨Šƒ8ìÍ‘ö‚2J$b80bab0f-3ab9-45ed-863e-dbf5d7c8dc9d

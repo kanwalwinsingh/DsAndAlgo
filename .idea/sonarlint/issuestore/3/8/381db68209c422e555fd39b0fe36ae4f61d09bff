@@ -1,0 +1,7 @@
+
+U
+java:S1854-"8Remove this useless assignment to local variable "edge".(é‘“¾8ã’ôÚ‚2
+F
+java:S1481-")Remove this unused "edge" local variable.(é‘“¾8è’ôÚ‚2
+G	java:S1061"+Replace this use of System.out by a logger.(óèÉî8è’ôÚ‚2
+G	java:S1063"+Replace this use of System.out by a logger.(àİ»š8è’ôÚ‚2

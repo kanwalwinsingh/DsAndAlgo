@@ -1,0 +1,9 @@
+
+{
+java:S1854*"8Remove this useless assignment to local variable "size".(λ¤΄λ8ƒΏψ©ƒ2J$13cb6873-780f-479c-84f7-b9676a1ad2c8
+l
+java:S1481*")Remove this unused "size" local variable.(λ¤΄λ8„Ώψ©ƒ2J$f60cf868-4224-4e49-b53c-1e3015f26e64
+r	java:S106."+Replace this use of System.out by a logger.(κ‚°Ψϋÿÿÿÿ8„Ώψ©ƒ2J$02b53b09-8bb2-4a8a-9d08-2b4f266a10b5
+m	java:S106/"+Replace this use of System.out by a logger.(²η¬8„Ώψ©ƒ2J$df30be64-8c20-42f3-a8fb-516c908b38d4
+r	java:S1063"+Replace this use of System.out by a logger.(ψ©δώÿÿÿÿ8„Ώψ©ƒ2J$ff698fa0-c523-4dfd-8156-675ed418f6c6
+m	java:S1068"+Replace this use of System.out by a logger.(ζ®Πα8„Ώψ©ƒ2J$700805d0-553a-4221-8725-965287d7aa89

@@ -1,0 +1,5 @@
+
+˜	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ş Ïúÿÿÿÿ8ÖİàŒ2J$0b9ae5ad-d8a6-43ee-8a83-adea239da259
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ÖİàŒ2J$8af9b1fa-11a0-41e6-93c4-9ce2de53b336
+š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8ÖİàŒ2J$d2ab058e-72ab-4d0d-b77a-fc2ecccd682c
+r	java:S106""+Replace this use of System.out by a logger.(¤‰‰ûÿÿÿÿ8ÙİàŒ2J$ad07753a-d384-4baa-a915-f89dec29d41d

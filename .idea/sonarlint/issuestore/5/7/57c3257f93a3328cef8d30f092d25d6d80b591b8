@@ -1,0 +1,23 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıšÎáùÿÿÿÿ8óÊÌƒ2J$b1e86c29-7e9b-46e0-8c9b-b606ebb8fa54
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıšÎáùÿÿÿÿ8óÊÌƒ2J$c4cef397-ad05-4daa-8b26-b31ac0f9be42
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íˆèîúÿÿÿÿ8óÊÌƒ2J$0021fdde-6133-498b-8f32-afc041aaa37f
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡û“©8óÊÌƒ2J$6bb07d70-0d4c-46ab-9c36-6bfd22016625
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹³¬*8óÊÌƒ2J$58a02b1b-39c7-4b31-a379-6d2f6e4691a4
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëè×ôûÿÿÿÿ8óÊÌƒ2J$118aad3d-2156-4cb6-a221-934bc743ab8f
+˜	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶µ¾£ûÿÿÿÿ8óÊÌƒ2J$59c3204e-cbc2-4d02-82b4-43b05cb034cd
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıšÎáùÿÿÿÿ8õÊÌƒ2J$e3395ec5-7bd3-4cf7-a94a-e0cd85d1a1b0
+r
+java:S1197"*Move the array designators [] to the type.(ıšÎáùÿÿÿÿ8õÊÌƒ2J$dc2096a7-0e14-4786-a296-d715b258ccab
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íˆèîúÿÿÿÿ8õÊÌƒ2J$40e4d93e-ca5b-40fc-8951-52ed47ef0d2a
+r
+java:S1197"*Move the array designators [] to the type.(íˆèîúÿÿÿÿ8õÊÌƒ2J$e826c299-c865-431a-993a-411d79ff1db5
+r
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8õÊÌƒ2J$1728f11b-6569-48c1-b437-4d236a444b15
+m
+java:S1197"*Move the array designators [] to the type.(ûªî¢8õÊÌƒ2J$1170ecbb-78e1-45b5-8ebe-36279be7e311
+r	java:S106"+Replace this use of System.out by a logger.(ˆ£êÛùÿÿÿÿ8öÊÌƒ2J$66ba8b75-4222-4bb5-a0a2-ddca3c86f62b
+m	java:S106""+Replace this use of System.out by a logger.(£Ï­Ç8öÊÌƒ2J$a3347e75-3f8d-4c78-9fb8-e9ab27d60f2f
+l
+java:S1197%"*Move the array designators [] to the type.(¤Ìã68öÊÌƒ2J$771c83eb-4079-4b57-b322-63d08de51663
+r	java:S106("+Replace this use of System.out by a logger.(‚½Øõÿÿÿÿÿ8öÊÌƒ2J$b7e7eebd-26b0-48fe-9f38-fb6ac3c320aa

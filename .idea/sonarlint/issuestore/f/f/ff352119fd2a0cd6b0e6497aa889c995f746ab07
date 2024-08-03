@@ -1,0 +1,24 @@
+
+
+java:S1223""LRename this method to prevent any misunderstanding or make it a constructor.(¸¤¾û8 ÇÄ”„2J$efe2f117-b967-4c2e-af51-b2e98249f497
+
+java:S1192'"HDefine a constant instead of duplicating this literal "After: " 3 times.(Ë‰—ƒüÿÿÿÿ8¡ÇÄ”„2J$50714324-1ef4-40e7-867a-a7cdf0d6107a
+r
+java:S1197"*Move the array designators [] to the type.(ìÈõıÿÿÿÿ8£åÂ”„2J$5797a4a4-8ec0-4b73-b746-bf2255366152
+m
+java:S1197"*Move the array designators [] to the type.(úÛ°æ8£åÂ”„2J$a5a83ee8-a3fa-4616-bd9d-219b138b76de
+	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¤¾û8¤ÇÄ”„2J$41aeaab6-8a60-4721-aa3e-1b7d0e516414
+m
+java:S1197""*Move the array designators [] to the type.(¸¤¾û8¤ÇÄ”„2J$41f9da51-d960-48b0-a13c-11a253674b8b
+r	java:S106'"+Replace this use of System.out by a logger.(Ë‰—ƒüÿÿÿÿ8¤åÂ”„2J$fc602868-e629-4381-9dbb-24ba813938d7
+r	java:S106,"+Replace this use of System.out by a logger.(Ë‰—ƒüÿÿÿÿ8¤åÂ”„2J$9763749c-6aff-4ed9-93ea-9a0ee04849ee
+r	java:S1061"+Replace this use of System.out by a logger.(Ë‰—ƒüÿÿÿÿ8¥åÂ”„2J$2fdaede5-bd2e-447a-9a79-132997b16509
+r
+java:S1197;"*Move the array designators [] to the type.(º ìıÿÿÿÿ8¤åÂ”„2J$694d738f-0288-4d41-8410-84e7c4178c95
+m	java:S106?"+Replace this use of System.out by a logger.(×Æáî8¤ÇÄ”„2J$c819d6b4-9948-4104-8567-fa5f4f6d173b
+r
+java:S1481B"*Remove this unused "check" local variable.(Šƒ°ÿÿÿÿÿÿ8¤åÂ”„2J$7bbf92af-59da-4015-8952-8dd315c20c3e
+l	java:S106D"+Replace this use of System.out by a logger.(şûÑ28¥ÇÄ”„2J$27e1ded2-73de-4322-ad7b-22af67ee55b7
+r	java:S106F"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¥ÇÄ”„2J$273013a6-0b9d-49a5-95f6-0e9c97260e83
+
+java:S1128"GRemove this unused import 'main.java.algorithms.searching.Helper.swap'.(ã´“Âıÿÿÿÿ8Ä»Å”„2J$de0b9b68-5930-4d9b-90c1-21277b627b1a

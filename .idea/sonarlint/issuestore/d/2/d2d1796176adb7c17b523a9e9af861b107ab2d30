@@ -1,0 +1,14 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½°Úµ8ş­ÒŠ2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½°Úµ8ş­ÒŠ2
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î˜Äıúÿÿÿÿ8ş­ÒŠ2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚½Ù8ş­ÒŠ2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚½Ù8ş­ÒŠ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8ş­ÒŠ2
+_
+java:S1854"=Remove this useless assignment to local variable "arrLength".(Û³å¥ıÿÿÿÿ8ÿ­ÒŠ2
+P
+java:S1481".Remove this unused "arrLength" local variable.(Û³å¥ıÿÿÿÿ8ÿ­ÒŠ2
+D
+java:S1659"'Declare "adjustMax" on a separate line.(Ó²ƒñ8€®ÒŠ2
+L	java:S1065"+Replace this use of System.out by a logger.(…¢ñ—ÿÿÿÿÿ8€®ÒŠ2

@@ -1,0 +1,19 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ÜŸÕÎ2J$7e9ba0a1-9f57-4ca4-8f7f-0dc59fe7a576
+g
+java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ8ŞŸÕÎ2J$e87d6f3a-049c-430c-a81e-16d27f74806b
+q
+java:S1905")Remove this unnecessary cast to "double".(Ú­şìıÿÿÿÿ8ßŸÕÎ2J$d9151c93-f899-4da9-bb46-458952297c70
+q
+java:S1905")Remove this unnecessary cast to "double".(­€û¿ùÿÿÿÿ8ßŸÕÎ2J$a223abaf-c05c-4cbc-a1e5-43317b774196
+•
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÓÄÌß8ßŸÕÎ2J$17ae0a32-5fa0-405d-81f0-b27b9c534785
+j
+java:S1659(""Declare "high" on a separate line.(ñÊ¹øûÿÿÿÿ8ßŸÕÎ2J$332f327b-9c7d-4917-beac-a3c02fa89840
+¥
+java:S2234$"cParameters to findMedianOptimal have the same names but not the same order as the method arguments.(§”›8ßŸÕÎ2J$019b8c05-b2c0-40a6-974e-6818ad0eb20f
+q
+java:S19058")Remove this unnecessary cast to "double".(éæÎšúÿÿÿÿ8ßŸÕÎ2J$70562362-98fe-4ae6-b579-fbe564b2802a
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(Ã÷Ø‘úÿÿÿÿ8öª·À2J$9ae1282f-eb9d-495e-9d90-7682d244e589
+ƒ	java:S125G"<This block of commented-out lines of code should be removed.(Ê€Áˆûÿÿÿÿ8Éı·À2J$b518fad0-7ba3-4cbd-a93b-42ad31ace7d4
+r	java:S106K"+Replace this use of System.out by a logger.(¹À£Öúÿÿÿÿ8áŸÕÎ2J$8efc272d-674f-4c3b-bfb5-42d1029483fe

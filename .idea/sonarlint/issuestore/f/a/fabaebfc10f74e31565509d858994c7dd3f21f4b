@@ -1,0 +1,12 @@
+
+r
+java:S1197"*Move the array designators [] to the type.(ˆıí¨ıÿÿÿÿ8•ë À„2J$1db750c7-091e-4868-a12e-d84301d302f8
+„
+java:S1659"ADeclare "high" and all following declarations on a separate line.(ÌâËï8•ë À„2J$aa35d648-e6cf-42fc-97f9-ce06a4ce058e
+o
+java:S1481",Remove this unused "triples" local variable.(ÌâËï8•ë À„2J$49b934d7-bd16-4971-a26e-1cdce5aac000
+r	java:S106%"+Replace this use of System.out by a logger.(Ñ©°àÿÿÿÿÿ8Ùœ£À„2J$460797ed-d279-4507-9fcf-b9e205eba853
+r	java:S106&"+Replace this use of System.out by a logger.(‚–Êüÿÿÿÿ8Ùœ£À„2J$1471f226-b491-4bb3-b8bc-37050246b279
+m	java:S106)"+Replace this use of System.out by a logger.(øÃ‹Ì8Úœ£À„2J$5f452556-4705-4f23-b5ef-6050a63b8724
+m	java:S106+"+Replace this use of System.out by a logger.(®—ß€8Úœ£À„2J$255961ed-a68e-41eb-a2a8-1c8a6f2a26c7
+m	java:S106."+Replace this use of System.out by a logger.(±Œòã8Úœ£À„2J$458b7f03-8aa2-4ce9-8314-2d02718e5cc9

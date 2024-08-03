@@ -1,0 +1,10 @@
+
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õêĞÃ8îÖåÊ‹2
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¼ş:8îÖåÊ‹2
+L
+java:S1066"/Merge this if statement with the enclosing one.(È¥›­8îÖåÊ‹2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ñ÷è†8ğÖåÊ‹2
+G	java:S1063"+Replace this use of System.out by a logger.(¿øåî8ñÖåÊ‹2
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ñÖåÊ‹2

@@ -1,0 +1,25 @@
+
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ôãÏşÿÿÿÿJ$f7e050dd-d9db-4f26-8966-38cc34d807d8
+•
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜäşJ$11111c24-a8ee-48e5-97e2-96f72294243d
+X
+java:S1643"Use a StringBuilder instead.(‹¸áõJ$b081be36-5ef0-4f32-8c16-f8340e04d692
+X
+java:S1643"Use a StringBuilder instead.(‹¸áõJ$7f20a056-72bd-4050-92bf-1a4e0ee06f38
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(—ôãÏşÿÿÿÿ8‰ëÄœ…2
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Üäş8‰ëÄœ…2
+v
+java:S1118":Add a private constructor to hide the implicit public one.(ÇËÂÑJ$d39ae2fd-e54a-430f-af4b-fa1240829e57
+f	java:S106"+Replace this use of System.out by a logger.(ÉğJ$d8671156-3be8-498d-8f86-a9904e491193
+k	java:S106"+Replace this use of System.out by a logger.(ıšÜáÿÿÿÿÿJ$b812cdf0-49e4-4d3d-9c83-ef4878a1b78f
+c
+java:S1125"'Remove the unnecessary boolean literal.(Ç¹šùJ$2a084938-8959-4b75-886b-a4e6a4cd5eaf
+f	java:S106"+Replace this use of System.out by a logger.(Ç¹šùJ$5b40900b-ec7d-45b5-937b-a11e791c2bcd
+f	java:S106"+Replace this use of System.out by a logger.(ÉğJ$c206c7b8-c6e2-410a-b6b9-7ea881c253d2
+k	java:S106"+Replace this use of System.out by a logger.(°¯ÿÁüÿÿÿÿJ$a4ee5180-54ca-4e3c-bb4f-4aa97de6f18f
+c
+java:S1125"'Remove the unnecessary boolean literal.(Ç¹šùJ$42c85be6-02e0-4c34-89e5-17db697b9fc9
+f	java:S106"+Replace this use of System.out by a logger.(Ç¹šùJ$4d6229c1-fa3b-482e-8cd5-8aab2bd27e12

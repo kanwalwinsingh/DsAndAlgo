@@ -1,0 +1,26 @@
+
+X
+java:S1700"Rename field "c"(¬²™©ÿÿÿÿÿ8˜éˆ2J$c9116152-90b5-499d-b0eb-2aecec666828
+r	java:S106
+"+Replace this use of System.out by a logger.(éÑ³üÿÿÿÿ8 ˜éˆ2J$e515d759-7691-4b20-8073-ace07d95b5e7
+k
+java:S1185"(Remove this method to simply inherit it.(¹ä§Æ8 ˜éˆ2J$df21d2a3-134f-4d26-845c-6427ed2d4d31
+}
+java:S1161":Add the "@Override" annotation above this method signature(¹ä§Æ8 ˜éˆ2J$0b0730b2-3bdb-4550-a1e4-6cd93e3405d6
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Øé¹Âıÿÿÿÿ8 ˜éˆ2J$383cdd9a-4017-45b6-85ed-ac52e333cdc0
+}
+java:S1161":Add the "@Override" annotation above this method signature(¹ä§Æ8¡˜éˆ2J$01889e21-e71a-4ca2-ad10-e8ed3b7d38b2
+m	java:S106"+Replace this use of System.out by a logger.(Ûƒÿó8¡˜éˆ2J$710c0e6c-e65c-4715-8409-a144172ffba3
+m	java:S106"+Replace this use of System.out by a logger.(Ûƒÿó8¡˜éˆ2J$e71c0099-f389-4c17-9d02-044f07fbe964
+m	java:S106$"+Replace this use of System.out by a logger.(Ûƒÿó8¢˜éˆ2J$47897428-cbd3-4ca3-b6e3-7250981d526d
+¿
+java:S1130("}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ÂôP8¢˜éˆ2J$afcb2e61-223f-4fa3-a5ef-b51efae68a28
+~	java:S125*"<This block of commented-out lines of code should be removed.(û†è»8¢˜éˆ2J$fe8eec34-44cb-48d3-9438-ec19e90416b6
+¯
+java:S6485>"mReplace this call to the constructor with the better suited static method HashMap.newHashMap(int numMappings)(ØÍZ8¢˜éˆ2J$6e90b240-21af-404c-9162-acbe144a0257
+m	java:S106?"+Replace this use of System.out by a logger.(·çÏÎ8¢˜éˆ2J$c65557c0-1b32-40aa-b1fb-e1b27f52ec69
+]	java:S125F"<This block of commented-out lines of code should be removed.(â½ƒûùÿÿÿÿ8®Ë›éˆ2
+q
+java:S1874N".Remove this use of "Locale"; it is deprecated.(ª¦õ«8¤˜éˆ2J$e88a1a59-cb27-41d3-8f9d-956c59aa2c0a
+t
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ü·™éˆ2J$e2b0894c-fa3d-4ec2-b69e-131b1f88f398

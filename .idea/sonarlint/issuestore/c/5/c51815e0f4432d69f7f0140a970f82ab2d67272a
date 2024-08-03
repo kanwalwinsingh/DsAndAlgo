@@ -1,0 +1,60 @@
+
+˜
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ñ‡ìøÿÿÿÿ8ßˆ¦»†2J$821cbd66-fc98-44b3-a051-9db95933be89
+’
+java:S3655S"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ë™˜.8àˆ¦»†2J$fd1fa7c3-8bc4-4ce0-91fd-564990b9b0ed
+˜
+java:S3655<"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(î–œøøÿÿÿÿ8àˆ¦»†2J$0fba7629-9c21-418b-9576-3ada8ffd2ca6
+˜
+java:S3655G"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÄÓ™Şùÿÿÿÿ8àˆ¦»†2J$53e917d6-93ad-4ffe-a679-40bb0d726274
+Œ
+java:S1854`"IRemove this useless assignment to local variable "doesBooksHashardCover".(â¶‚8âˆ¦»†2J$f84e4b73-07fb-454e-83d4-4b9cf10e2a99
+
+java:S1854Z"GRemove this useless assignment to local variable "bookPerYearPerGenre".(§¶Õóùÿÿÿÿ8âˆ¦»†2J$86ea9754-9aa1-4910-bedf-f451f7d1d115
+n
+java:S2201-"+The return value of "collect" must be used.(ÍŞ•°8ãˆ¦»†2J$da676edb-872e-42f2-8dfa-42120af69d79
+½
+java:S6204-"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ÍŞ•°8ãˆ¦»†2J$b609ec67-164e-4be5-974d-4d7c9a12b7c0
+n
+java:S22010"+The return value of "collect" must be used.(…´¡¦8ãˆ¦»†2J$b01c13dc-8295-4ec0-b2cc-5a6a9e10210d
+½
+java:S62040"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(…´¡¦8ãˆ¦»†2J$83e0d28e-c090-487f-b4e8-ae2d3423f501
+n
+java:S22013"+The return value of "collect" must be used.(ÃŸ‰ğ8äˆ¦»†2J$1df9fba6-d7ca-457d-afd4-746009832d72
+½
+java:S62043"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ÃŸ‰ğ8äˆ¦»†2J$5acfa72c-1f03-40f7-bc70-2ff884a851c3
+n
+java:S22016"+The return value of "collect" must be used.(ÖÁš•8äˆ¦»†2J$e6b63992-02b7-4318-b478-95904a379afd
+½
+java:S62046"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ÖÁš•8äˆ¦»†2J$21fcaf24-1a46-4434-80f8-aa9b0fb8c928
+s
+java:S22019"+The return value of "collect" must be used.(òóöüÿÿÿÿ8äˆ¦»†2J$407e2115-3f97-472e-b0da-02ae91c86c7e
+Â
+java:S62049"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(òóöüÿÿÿÿ8äˆ¦»†2J$b6c9afc4-aafd-47b0-bfb5-4c69f78aeac4
+o
+java:S2201<"'The return value of "get" must be used.(î–œøøÿÿÿÿ8åˆ¦»†2J$89c4411f-7e13-45ec-a015-c22438b6f391
+o
+java:S2201="'The return value of "get" must be used.(ñ‡ìøÿÿÿÿ8åˆ¦»†2J$ef833505-e49a-4bc7-ba45-b7914cb5c9cd
+s
+java:S2201@"+The return value of "collect" must be used.(×ë›Çıÿÿÿÿ8åˆ¦»†2J$fdc9eceb-0012-4991-87d5-c6a96ce3e5fe
+Â
+java:S6204@"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(×ë›Çıÿÿÿÿ8åˆ¦»†2J$ee2aa0bd-6a85-41bd-9edb-b04df79c1130
+t
+java:S2201A",The return value of "allMatch" must be used.(ñ’º§ÿÿÿÿÿ8åˆ¦»†2J$fa2d53de-4fee-49c3-a94d-cd1db83509ae
+t
+java:S2201D",The return value of "anyMatch" must be used.(²¹şùıÿÿÿÿ8æˆ¦»†2J$248968cf-1020-4226-aa39-7283125a4dbf
+o
+java:S2201G"'The return value of "get" must be used.(ÄÓ™Şùÿÿÿÿ8æˆ¦»†2J$42f86569-42a5-49fa-a3ab-6f2321ca28cc
+r
+java:S2201J"*The return value of "reduce" must be used.(÷è¶øÿÿÿÿ8æˆ¦»†2J$2bbfa15b-8a80-4c3c-b18d-0dabc86b4ab8
+n
+java:S2201M"+The return value of "collect" must be used.(æ”×–8æˆ¦»†2J$6fb1517a-eb26-4c8c-91e1-b8c5cfcb45d0
+r	java:S106P"+Replace this use of System.out by a logger.(øı÷‡ÿÿÿÿÿ8æˆ¦»†2J$6e4c5294-0825-4e21-9824-49dd8bb063c9
+l	java:S106S"+Replace this use of System.out by a logger.(ë™˜.8çˆ¦»†2J$aa3783e6-b532-4bdd-86a1-723338416534
+m	java:S106W"+Replace this use of System.out by a logger.(¹½8çˆ¦»†2J$cf9f7e32-8b84-4b9f-830f-cc738058da10
+€
+java:S1481Z"8Remove this unused "bookPerYearPerGenre" local variable.(§¶Õóùÿÿÿÿ8çˆ¦»†2J$d3ffac79-abe9-4e78-b984-94d9d6dc338d
+n
+java:S2201]"+The return value of "collect" must be used.(áÄü8çˆ¦»†2J$dd4f5326-1cf3-4f9a-b420-42874e82f589
+}
+java:S1481`":Remove this unused "doesBooksHashardCover" local variable.(â¶‚8èˆ¦»†2J$ec160deb-0a04-4bd8-932e-9a70e231cd58

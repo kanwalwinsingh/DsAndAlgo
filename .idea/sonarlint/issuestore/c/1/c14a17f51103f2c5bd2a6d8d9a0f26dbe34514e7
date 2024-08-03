@@ -1,0 +1,8 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ƒçÀùÿÿÿÿ8ÄÌ‹¢‹2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8ÆÌ‹¢‹2
+L	java:S106"+Replace this use of System.out by a logger.(¾ÿöùÿÿÿÿÿ8ÍÌ‹¢‹2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÍÌ‹¢‹2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÎÌ‹¢‹2

@@ -1,0 +1,8 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óˆ¥¿ûÿÿÿÿ8ˆŠéˆ2J$cd24b025-69f3-4825-98ba-9119a6448cbb
+e
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÎÂÃÎ8ÍÄŠéˆ2
+µ
+java:S6485"mReplace this call to the constructor with the better suited static method HashMap.newHashMap(int numMappings)(ıø™şÿÿÿÿ8öŸŠéˆ2J$8f55a500-2960-459c-b2ea-7349f387d698
+k	java:S106"+Replace this use of System.out by a logger.(¼Á±ŸûÿÿÿÿJ$292752d9-a1bb-4985-852e-c2f701f9d2ee

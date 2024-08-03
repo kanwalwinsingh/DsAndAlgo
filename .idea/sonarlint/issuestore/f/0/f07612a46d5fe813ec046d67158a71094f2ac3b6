@@ -1,0 +1,19 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸—›¹ÿÿÿÿÿ8ßòÎÚŠ2J$31ad6a13-eb2c-4772-ba68-0819a8e7ff7d
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸—›¹ÿÿÿÿÿ8àòÎÚŠ2J$bfaefe28-1649-4ff9-822b-9869f823c61d
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸—›¹ÿÿÿÿÿ8àòÎÚŠ2J$72b04487-4e9b-4dd1-b616-e80cae59cbeb
+˜	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ó÷¹üÿÿÿÿ8àòÎÚŠ2J$ccd223dc-2bee-4bee-886b-4342f3bc3d25
+˜	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ó÷¹üÿÿÿÿ8àòÎÚŠ2J$73379f78-3657-4537-8a96-b14754d24178
+˜	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ó÷¹üÿÿÿÿ8àòÎÚŠ2J$05dcb388-48ff-47fb-a084-5dd55c9b6e9a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8àòÎÚŠ2J$13da0e65-805f-43f0-9286-5af36398558a
+~
+java:S1854	";Remove this useless assignment to local variable "lastMin".(Í€ú×8åòÎÚŠ2J$9d9857af-93aa-4554-90a5-8ba43c148ea9
+o
+java:S1481	",Remove this unused "lastMin" local variable.(Í€ú×8æòÎÚŠ2J$16710968-118d-4192-acb1-c3ac85e35cab
+i	java:S131""Add a default case to this switch.(Œ¹ÿÿÿÿÿ8çòÎÚŠ2J$2d4d24cd-3efb-4f7c-ae1b-dd0592cd4841
+‰
+java:S16593"ADeclare "sumC" and all following declarations on a separate line.(õ¥ûÿÿÿÿ8èòÎÚŠ2J$408fa1be-00e9-49bf-9472-3770ff48de2b
+i
+java:S1659B"!Declare "max" on a separate line.(£ŠÖ¼ıÿÿÿÿ8èòÎÚŠ2J$51665101-4938-41dd-8dd7-90489c578df4
+d	java:S1315""Add a default case to this switch.(“ÄßÚ8èòÎÚŠ2J$e5c6d696-e7a8-41fa-9e9e-f395c18f5ad8
+m	java:S106T"+Replace this use of System.out by a logger.(§È£ë8èòÎÚŠ2J$26e98aca-c957-4327-9e26-269cdc46a902

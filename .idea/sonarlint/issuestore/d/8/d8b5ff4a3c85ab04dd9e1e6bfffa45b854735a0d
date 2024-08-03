@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í¾±Ò8™á¥å2
+G	java:S106="+Replace this use of System.out by a logger.(ÈÕ­î8á¥å2
+L	java:S106>"+Replace this use of System.out by a logger.(Ïíè¤şÿÿÿÿ8á¥å2
+F	java:S106?"+Replace this use of System.out by a logger.(ô£q8á¥å2
+G	java:S106A"+Replace this use of System.out by a logger.(°»¾³8á¥å2
+H
+java:S1128"+Remove this unused import 'Gaana.TrieNode'.(Ï¬ø¤8á¥å2

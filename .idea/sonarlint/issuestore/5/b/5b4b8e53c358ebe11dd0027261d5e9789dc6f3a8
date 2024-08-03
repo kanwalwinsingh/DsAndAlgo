@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ôÆüÿÿÿÿ8ù“ ¨2J$ec80024d-d76e-4b04-ad8c-369f604ee78e
+z
+java:S2589"7Remove this expression which always evaluates to "true"(³íï®8£˜½¨2J$9daad41d-b654-4bf3-8009-5a9b017db01c
+Œ
+java:S2583"DChange this condition so that it does not always evaluate to "false"(İÉşüÿÿÿÿ8£˜½¨2J$672efbca-43bc-43ed-95c7-a0ec3ddbdc1d
+i
+java:S1170"!Make this final field static too.(¬¯¨şÿÿÿÿ8Ğš¤¨2J$feb03448-0ff9-4237-9ba7-530420e7c8f7
+m	java:S106"+Replace this use of System.out by a logger.(È©³°8§˜½¨2J$1a87a660-8b31-45c3-ad3e-3f6d41181a36
+w
+java:S1128"/Remove this unused import 'Codility.MaxProfit'.(½ÿ¹äøÿÿÿÿ8³°¥¨2J$8bbce300-ece5-4fd5-8f80-fff0dc9dfe0b

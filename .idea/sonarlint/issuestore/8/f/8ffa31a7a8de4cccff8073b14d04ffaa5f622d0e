@@ -1,0 +1,8 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðäï™8©ÜÉÜ‚2J$1c30bf9a-4a88-4c26-9f80-b80d207482e3
+Ž	java:S116	"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ€ü¬8«ÜÉÜ‚2J$58ef80e2-74d3-4995-bf2b-f996e74006e0
+ƒ	java:S1251"<This block of commented-out lines of code should be removed.(È¡¹Þùÿÿÿÿ8­ÜÉÜ‚2J$0ec74a61-5ae0-4f96-93eb-fea0a2c349ad
+g
+java:S1659L"Declare "v" on a separate line.(ÆÑ¨Ïùÿÿÿÿ8ù®ÏÜ‚2J$3a14acac-72bf-4936-8d76-646283c949e1
+m	java:S106N"+Replace this use of System.out by a logger.(ÁÞÙÔ8ú®ÏÜ‚2J$c92456c0-9b44-438b-ad25-178f6179161e
+m	java:S106P"+Replace this use of System.out by a logger.(Šž«™8ú®ÏÜ‚2J$8987a9cb-9f74-44eb-aa22-1d1c241480d5

@@ -1,0 +1,8 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÀ±üÿÿÿÿ8¼ÈúÎŠ2J$1c1ed8b7-dfa2-4782-98a5-a60a2cffb0b8
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8¼ÈúÎŠ2J$95deff2a-5bfd-49c3-a710-4f7df4c90067
+‡
+java:S1659"DDeclare "leftSum" and all following declarations on a separate line.(Û»¸³8¾ÈúÎŠ2J$3d32b28a-32c8-4e75-9a6f-846e6eebb1a2
+m	java:S106"+Replace this use of System.out by a logger.(í€¤8¿¯ÏŠ2J$60a35d14-b385-434d-a896-013c77846e07
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8šÏ®ÏŠ2J$2bace663-b0d6-40c7-9e1a-1f32234661c8

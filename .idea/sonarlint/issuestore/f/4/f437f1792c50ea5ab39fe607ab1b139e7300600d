@@ -1,0 +1,12 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ýû•ß8õ¯‹Ç„2J$489e2f5f-c080-4568-bd3b-0b8c80f4d38d
+€
+java:S1854"8Remove this useless assignment to local variable "head".(´“×Íûÿÿÿÿ8ô¦ŠÇ„2J$bf40b043-2a4d-4988-8ada-f3ac4ba2bf89
+j
+java:S1659
+""Declare "next" on a separate line.(¿ª‰“ýÿÿÿÿ8‚ç‡Ç„2J$ac7d870a-ad10-4311-95bd-c260b1612aa8
+r	java:S106!"+Replace this use of System.out by a logger.(ƒ­Ãûûÿÿÿÿ8ù¯‹Ç„2J$fc7336fb-5b9e-4420-9598-b905bbd762f8
+r	java:S106#"+Replace this use of System.out by a logger.(ÒÃÇ»ýÿÿÿÿ8ù¯‹Ç„2J$fe92858e-e836-48a0-afa3-1445c9c538e2
+r	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ù¯‹Ç„2J$51f3a8e0-0784-42c6-a03e-da3848fd99c4
+m	java:S106&"+Replace this use of System.out by a logger.(±Œòã8ù¯‹Ç„2J$77b4ae9b-15e2-4caf-9084-aa2f2a768264

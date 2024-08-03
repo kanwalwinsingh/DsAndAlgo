@@ -1,0 +1,14 @@
+
+³
+java:S4165"kRemove this useless assignment; "currentWindow" already holds the assigned value along all execution paths.(«‡ÿ·şÿÿÿÿ8ÜÖÎ¨„2J$2a189549-b1aa-46f9-805e-688aabd4fffa
+
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¼”®‚8İÖÎ¨„2J$428c3526-4369-4d6d-aca9-8542d7717c13
+r
+java:S1197'"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8€Òõ¨„2J$2b5d9fd4-7715-49aa-842a-336cd827a107
+r
+java:S1197("*Move the array designators [] to the type.(úĞ‚üÿÿÿÿ8€Òõ¨„2J$579a50b8-8e1f-4a3b-8f0b-a14a8a3da480
+r	java:S1067"+Replace this use of System.out by a logger.(×İˆêøÿÿÿÿ8€Òõ¨„2J$e4f1c81d-9cbd-4092-b36c-83c0aec748e5
+m	java:S1068"+Replace this use of System.out by a logger.(¨Ñ°§8€Òõ¨„2J$53c7a10d-95bb-4b5f-a326-424fba3f6f91
+r	java:S1069"+Replace this use of System.out by a logger.(ÓÍë’úÿÿÿÿ8€Òõ¨„2J$a74f2f42-9e90-48bc-bd3d-cb59bd6e6e6d
+l	java:S106:"+Replace this use of System.out by a logger.(ĞÀ88Òõ¨„2J$82f4fed6-8468-43f3-b0cd-d085ddfa4663
+r	java:S106;"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Òõ¨„2J$ec0cecb6-2621-41cd-a1c4-b9de1ea7fdfc

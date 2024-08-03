@@ -1,0 +1,9 @@
+
+“	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¾é8¿ÂÉö2J$0af58682-860a-4f46-9470-399090acf73d
+“	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¾é8¿ÂÉö2J$7c67b462-6ee7-4062-b90d-372c702cb4a5
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8¿ÂÉö2J$b3265bb3-b948-4f8a-b017-02352fdd031a
+k
+java:S1659"#Declare "right" on a separate line.(Á²Öıÿÿÿÿ8ÁÂÉö2J$68aab667-6715-4ca9-8414-4edaf14a7a38
+j
+java:S1659	"'Declare "right_max" on a separate line.(ò¾é8ÁÂÉö2J$feb89b40-0c1f-4c6b-a780-3f0103607f10
+m	java:S106!"+Replace this use of System.out by a logger.(¤í‡£8”ŠÌö2J$072829fa-a796-4411-95fa-bf49058f6765

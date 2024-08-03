@@ -1,0 +1,76 @@
+
+¯
+java:S1319"lThe type of "dependencies" should be an interface such as "List" rather than the implementation "ArrayList".(•öÁ8ÌÔ‹ğ…2J$8bfc5426-ec6a-4280-b551-9a9db60bbd0d
+œ
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ç»Ÿ8çİğ…2J$fd07898d-2565-44b0-83be-0715cc159e81
+¡
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(’æ±Şùÿÿÿÿ8çİğ…2J$a0cbe16c-a43d-46e8-a463-a7a38cdd7726
+¡
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚˜ÙŞüÿÿÿÿ8çİğ…2J$50ae2f65-43f5-49db-bc35-d681e574a9ad
+œ
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(È³Æõ8çİğ…2J$bd5cf824-73ae-42d9-ab1c-fc1519f8fbd8
+œ
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã€8çİğ…2J$e142222f-1015-414f-a973-3f80c7681085
+œ
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ç»Ÿ8çİğ…2J$af9673a9-de3d-4160-bd4a-290a96904762
+¡
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(’æ±Şùÿÿÿÿ8çİğ…2J$f302c9a5-e75e-41fb-a838-1dcd0b603c58
+œ
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔµøÔ8çİğ…2J$225cb963-d3d3-42f1-b1a2-8f4d84ce2b3d
+œ
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã€8çİğ…2J$4536aa0b-8521-4284-aed8-c0dd28ab98d1
+œ
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(È³Æõ8çİğ…2J$30627db1-b21a-4fa3-b66e-0702b2c82771
+œ
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èö¯Ü8çİğ…2J$128586f3-d22c-4a60-b47d-9f594a385259
+¡
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ„­ûıÿÿÿÿ8çİğ…2J$82f1f4a3-913a-43c3-b111-aa32cab8ad3b
+¡
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ú¼®øÿÿÿÿ8çİğ…2J$22095cbc-f0da-43fb-b4c5-04240d6bcca8
+¡
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¿öİüÿÿÿÿ8çİğ…2J$9406ae5f-0bcf-4cf9-9824-cdf1552836ba
+œ
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜÃË–8çİğ…2J$ac13a87f-149c-46ae-a38f-6cba4c97e482
+œ
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ç»Ÿ8çİğ…2J$0b49eed1-52e6-43c8-b448-15ad04a50add
+¡
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(°Ş¯Ñúÿÿÿÿ8çİğ…2J$ddb78a84-84ad-47ec-95c5-600adb0d3f1c
+¡
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(’æ±Şùÿÿÿÿ8çİğ…2J$51a7c2eb-22c8-408e-9a20-a62a2a18377d
+›
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷²38èİğ…2J$27524d48-ad56-46cd-918d-90c37fa69fbc
+¡
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ˆ’¿ùÿÿÿÿ8èİğ…2J$93cccc3e-1299-4c94-bdea-b6114758c122
+d
+java:S1643	"Use a StringBuilder instead.(ÎØşÿÿÿÿ8ÌÔ‹ğ…2J$b0e33ba3-1af0-47a0-86ec-cd2ff72525a8
+w
+java:S2864$"4Iterate over the "entrySet" instead of the "keySet".(‹§Ã—8ÏÔ‹ğ…2J$6f05ddf6-9d76-43f8-9b55-e6c311cfd183
+r
+java:S1197:"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8îİğ…2J$f617ffd8-8629-48ac-bc29-bd57935cefe1
+t
+java:S3599;",Use another way to initialize this instance.(¦¯‹üÿÿÿÿ8îİğ…2J$bbcf82c8-d4da-4766-b020-9137aa958ea7
+¡
+java:S1171<"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ïİğ…2J$f940c46b-f73b-469c-88d1-c70994cee1f3
+t
+java:S3599=",Use another way to initialize this instance.(“ÒÜ“şÿÿÿÿ8ğİğ…2J$3dbba586-9827-4de6-a952-904287d5a633
+¡
+java:S1171>"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ğİğ…2J$49363f46-30e0-4f34-bb92-3fc566140207
+t
+java:S3599F",Use another way to initialize this instance.(“ÒÜ“şÿÿÿÿ8ñİğ…2J$64a8cbcd-2e5e-4625-8dc9-25a0054c5f81
+¡
+java:S1171G"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ñİğ…2J$863329b6-1d0c-4a85-98b0-ab75e385a2a5
+t
+java:S3599S",Use another way to initialize this instance.(“ÒÜ“şÿÿÿÿ8òİğ…2J$a2762ae4-7852-4835-b74f-bd4535a0a9d4
+¡
+java:S1171T"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8óİğ…2J$06826d29-219e-42cf-bc2e-085afce027fb
+t
+java:S3599Y",Use another way to initialize this instance.(“ÒÜ“şÿÿÿÿ8óİğ…2J$1cd2e49f-ad20-4d7a-ab32-82a5e19e4457
+¡
+java:S1171Z"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8óİğ…2J$b039f1ae-d3ae-4241-a937-33bf9ac24011
+t
+java:S3599`",Use another way to initialize this instance.(“ÒÜ“şÿÿÿÿ8óİğ…2J$db1970cf-0ea0-4484-873f-43c715f8c170
+¡
+java:S1171a"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ôİğ…2J$1790ae5d-280b-4c07-a941-860cefbf0738
+m	java:S106h"+Replace this use of System.out by a logger.(š§î8ôİğ…2J$670801cd-00de-4a60-a411-1ad899255fe2
+r	java:S106i"+Replace this use of System.out by a logger.(²çûÏüÿÿÿÿ8ôİğ…2J$eff7d917-abd7-4660-9a96-7752b1a9cf72
+m	java:S106j"+Replace this use of System.out by a logger.(±Œòã8ôİğ…2J$582e9508-8b93-40bf-8dfd-1668a667366f

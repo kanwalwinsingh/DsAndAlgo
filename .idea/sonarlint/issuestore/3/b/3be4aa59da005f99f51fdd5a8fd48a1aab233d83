@@ -1,0 +1,40 @@
+
+	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²³î™8õ¯†2J$308b211a-a5d0-41b4-a064-03ebaca9febc
+˜
+java:S3655n"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ïË½üÿÿÿÿ8Ö³†2J$b2a8019c-6dfa-492b-9fca-4b6320ca2575
+	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ö¯†2J$a303a6fc-7373-4921-aef7-05b49c8c5fe7
+w
+java:S3740"/Provide the parametrized type for this generic.(üùÓšüÿÿÿÿ8ö¯†2J$ec6b7065-0275-4c97-a16b-fc9245375f3f
+¶
+java:S11923"òDefine a constant instead of duplicating this literal "/Users/k0s0lvx/Library/CloudStorage/OneDrive-WalmartInc/backup/intellijProjects/spring-boot-graphql-tut-master/DsAndAlgo/BasicDs/src/main/java/javaversionfeatures/mytextfile.txt" 3 times.(ÅÜ¦ü8ö¯†2J$8c05e419-7fb5-4813-b457-f55dcb4551d2
+m	java:S106"+Replace this use of System.out by a logger.(ì§©ˆ8ú¯†2J$806f4963-6b3e-40a8-b7f6-e8a3696bf26f
+m	java:S106"+Replace this use of System.out by a logger.(ì§©ˆ8ú¯†2J$bb754d11-d90a-49b5-8a8d-bf4fab458734
+r	java:S106"+Replace this use of System.out by a logger.(§”©üÿÿÿÿ8ú¯†2J$9dd7487b-f771-4ae9-bca6-91e3da2823e1
+m	java:S106"+Replace this use of System.out by a logger.(¿Îè¹8û¯†2J$ce5bbd81-848d-418e-97cb-540330c195c4
+m	java:S106"+Replace this use of System.out by a logger.(¿Îè¹8û¯†2J$d394150e-a40f-47c2-8a18-abd44bef093a
+r	java:S106"+Replace this use of System.out by a logger.(§”©üÿÿÿÿ8û¯†2J$8bf87d06-3468-494e-b9db-2e4b13a38323
+m	java:S106"+Replace this use of System.out by a logger.(Ö¢ç€8û¯†2J$0a5612fa-8c41-490a-8c7c-1e9a011365b7
+m	java:S106#"+Replace this use of System.out by a logger.(ı¶Ú¿8û¯†2J$e23ae103-9739-4c18-8a35-2c6cedb27108
+r	java:S106&"+Replace this use of System.out by a logger.(Ùø²¢ûÿÿÿÿ8û¯†2J$b1d685a9-02fc-47bf-8ded-c5d7f67dcd44
+m	java:S106'"+Replace this use of System.out by a logger.(œ”Á¬8ü¯†2J$9cdb1418-ece7-4a98-8c5f-6b856e69397c
+r	java:S106*"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8ü¯†2J$eecfd6cf-ebbe-4415-80cf-c59d7b2fe231
+l	java:S106+"+Replace this use of System.out by a logger.(ªªÂ8ü¯†2J$b6638adf-f9ad-4497-9c50-91da92b92687
+r	java:S106,"+Replace this use of System.out by a logger.(—¦ç¤úÿÿÿÿ8ü¯†2J$3bbe9ce5-c38c-4112-8e81-a4fb792ccdff
+m	java:S106."+Replace this use of System.out by a logger.(ú€Ã8ü¯†2J$58c674a8-ed6e-414c-b892-e0433ddd8e71
+r
+java:S20934"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ı¯†2J$9a02aba1-bf87-466b-98dc-cd2282f6bf2a
+m
+java:S2093C"*Change this "try" to a try-with-resources.(ÉÍŞ°8ı¯†2J$c5cb177a-9e26-45be-8a91-b3d91e61bcb3
+m
+java:S2093K"*Change this "try" to a try-with-resources.(ğÁœ8ş¯†2J$44b668eb-bdc6-4d04-9e39-70fd81f174ee
+m	java:S106U"+Replace this use of System.out by a logger.(Éµöà8ş¯†2J$d87448b7-ad02-4d9e-965f-1ea7898b90e0
+r	java:S106`"+Replace this use of System.out by a logger.(·¾ıóşÿÿÿÿ8ÿ¯†2J$b84288f9-ec5d-4fb7-87b5-e42010d00f55
+r	java:S106`"+Replace this use of System.out by a logger.(·¾ıóşÿÿÿÿ8ÿ¯†2J$f5321789-6da5-4a57-9489-cc10cb2c70d2
+m	java:S106c"+Replace this use of System.out by a logger.(¬ÅÁÆ8ÿ¯†2J$745080ba-eb46-47eb-a0cf-fd10eab710c9
+m	java:S106c"+Replace this use of System.out by a logger.(¬ÅÁÆ8ÿ¯†2J$4b478659-dd4c-42dc-af3c-3319ead9fd1f
+m	java:S106f"+Replace this use of System.out by a logger.(Í¢8ÿ¯†2J$0794b53e-29d3-40b7-be09-47ddcea75474
+r	java:S106j"+Replace this use of System.out by a logger.(’õ¤ïøÿÿÿÿ8ÿ¯†2J$83dbce05-c318-4ab9-8773-86a0c11b40e3
+r	java:S106k"+Replace this use of System.out by a logger.(¸™Ö¯úÿÿÿÿ8€Ÿ¯†2J$9b2c7b2b-3986-4079-b1da-74e1c4872496
+r	java:S106n"+Replace this use of System.out by a logger.(ïË½üÿÿÿÿ8•›°†2J$a02c5905-e541-4446-ab44-6c96bee6c0df
+r	java:S106u"+Replace this use of System.out by a logger.(ç¸Ö€ıÿÿÿÿ8éò°†2J$7cd908bb-f6f8-42cf-87b2-dacb938aa691

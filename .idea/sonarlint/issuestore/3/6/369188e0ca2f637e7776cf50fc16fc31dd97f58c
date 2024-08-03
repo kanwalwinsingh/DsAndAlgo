@@ -1,0 +1,26 @@
+
+˜	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÍß¹üÿÿÿÿ8’‡¾íƒ2J$f7ca043a-c6a8-4360-939b-e6b1704a0588
+“	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¬â‹8’‡¾íƒ2J$98b186ef-023c-4d0a-8424-8e7dc3ce83fc
+r
+java:S1197"*Move the array designators [] to the type.(óöûİüÿÿÿÿ8¾Èºíƒ2J$d72bf85e-609b-4005-814b-936794fe2b4d
+r
+java:S1197"*Move the array designators [] to the type.(óöûİüÿÿÿÿ8¾Èºíƒ2J$b9ee9ec0-5272-4fb9-b3f9-4b775830ba60
+j
+java:S1659"(Declare "prevMedian" on a separate line.(Í¬Çe8¾Èºíƒ2J$6c0df2f5-0c9d-4f0b-b1af-dd0cbb3afb0c
+~	java:S125$"<This block of commented-out lines of code should be removed.(õÉÙÔ8¿Èºíƒ2J$3cd3fe45-bf68-4a83-ab36-f0e35c5b1686
+
+java:S16594">Declare "i" and all following declarations on a separate line.(ù¬â‹8–‡¾íƒ2J$f977f391-56a3-4ea8-9e4d-2ec8d0bc088d
+q
+java:S1905N")Remove this unnecessary cast to "double".(„åâ¸ıÿÿÿÿ8–‡¾íƒ2J$b60b6b0e-8cfc-4fae-a504-edd90d862d49
+r
+java:S1197\"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ÀÈºíƒ2J$4e107d13-1a27-42d1-b1c0-860846a6bacb
+r
+java:S1197]"*Move the array designators [] to the type.(îÕÌÒûÿÿÿÿ8ÀÈºíƒ2J$a7d661df-ce66-45fb-b19b-4e5a0a3fd4e2
+r
+java:S1197c"*Move the array designators [] to the type.(ƒÀØµıÿÿÿÿ8ÀÈºíƒ2J$02e06464-7e3e-462f-9592-125ec4dde99a
+m	java:S106l"+Replace this use of System.out by a logger.(ÒõÜè8ÊÈºíƒ2J$c5bf3a3e-3fd0-4d42-8492-1f6d8aaf5547
+m
+java:S1197o"*Move the array designators [] to the type.(Âó8ÊÈºíƒ2J$c51cf852-c64d-4340-a81b-e4a02089294a
+r
+java:S1197v"*Move the array designators [] to the type.(³Şá»øÿÿÿÿ8ÊÈºíƒ2J$e1ff12df-d788-4ccb-a4b0-cbd3c6810aa1
+m	java:S106}"+Replace this use of System.out by a logger.(²ŒÅ8ÊÈºíƒ2J$fd730b13-a7ff-4eb8-ab26-bc5130171f8a

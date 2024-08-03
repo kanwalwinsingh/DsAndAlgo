@@ -1,0 +1,8 @@
+
+‘	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©êûÕúÿÿÿÿJ$a129dc41-757f-403e-89c9-8e8aef29e88c
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÅûÞúÿÿÿÿJ$fddd89f3-0e3d-49ed-89d5-72c047695ab5
+m
+java:S1104"PMake root a static final constant or non-public and provide accessors if needed.(½Âœ²8£ë÷’…2
+x
+java:S1117"7Rename "root" which hides the field declared at line 8.(óˆ¶ÓüÿÿÿÿJ$c97bc941-0610-43fc-91c5-43c66dd42d2f

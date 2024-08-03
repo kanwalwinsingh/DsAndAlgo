@@ -1,0 +1,13 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãžýÿÿÿÿ8­ä¹£‹2J$1e47f100-3283-44bd-809f-2b3e6e554373
+˜	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔËñ§ûÿÿÿÿ8‚ØÅ£‹2J$92f666ed-ceef-4136-b462-5b4e32098dd7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8µŽ¡£‹2J$bea6b9d5-f4f8-417e-8292-61b2add5a9c5
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(—øãžýÿÿÿÿ8ƒØÅ£‹2J$25de6339-ff27-4b32-89a1-a94758840779
+k
+java:S1659	"(Declare "peaksCount" on a separate line.(ù®ãŠ8ƒØÅ£‹2J$13188cc2-8cd7-4853-8fd1-2bb002306470
+m	java:S1062"+Replace this use of System.out by a logger.(¿øåî8·Ž¡£‹2J$86ae3007-dc35-4003-ae60-f9e5069d5da7
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÿ‚Æ£‹2J$4a29a40e-ee62-4173-ba9f-1fe548fbc857
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÿ‚Æ£‹2J$90005e48-b94b-47b4-9c45-ce4d2f0e4d51

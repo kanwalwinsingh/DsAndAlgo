@@ -1,0 +1,14 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä†Á8š¨²Ìƒ2J$8c2f0fc5-f145-43a4-89a6-a346cc9d19bb
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©îÿ‡8›¨²Ìƒ2J$a85badec-1ac6-408a-99eb-aa894f83b70f
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŒÛ•8›¨²Ìƒ2J$e68c60ff-a365-4440-8a54-3600016da924
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹³¬*8›¨²Ìƒ2J$de75fc05-37a1-4048-91f8-5ed1e958149e
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éö°¼8›¨²Ìƒ2J$78db5316-85e1-4c79-9558-395403864993
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä†Á8œ¨²Ìƒ2J$e8fe534a-f30d-45bd-b90e-36e011205860
+m
+java:S1197"*Move the array designators [] to the type.(ä†Á8œ¨²Ìƒ2J$dc5cee34-0e69-49d3-81a0-1330bd79dfeb
+r
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8œ¨²Ìƒ2J$632e4cd3-3d0c-4ef8-8582-baf3e621cca4
+m
+java:S1197"*Move the array designators [] to the type.(ûªî¢8œ¨²Ìƒ2J$0702cd1b-e219-4775-9c73-37d5e1a50cdb
+L	java:S106"+Replace this use of System.out by a logger.(‘ôŠ¯ıÿÿÿÿ8›Ú³Ìƒ2

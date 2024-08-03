@@ -1,0 +1,8 @@
+
+Å
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(—†û»8¯æÄ≈Ñ2J$6e9a272e-3c39-44ee-822a-e78a7bce5ff1
+m	java:S1069"+Replace this use of System.out by a logger.(“ëÄ§8ó…Å≈Ñ2J$5c682bb3-c9b9-4de5-a050-7ac6763c1758
+r	java:S106:"+Replace this use of System.out by a logger.(ˇ◊™∞¯ˇˇˇˇ8ó…Å≈Ñ2J$83b30dfb-6a79-4e05-a037-9f2a4d868fa5
+m	java:S106;"+Replace this use of System.out by a logger.(Ô®ÿã8ó…Å≈Ñ2J$fa032dee-d356-4a3d-8d5f-2585d64cffb7
+r	java:S106="+Replace this use of System.out by a logger.(¡∆Œ¶˝ˇˇˇˇ8ó…Å≈Ñ2J$e5ddf1cb-896a-4c23-a014-d5f10e722b8e
+m	java:S106>"+Replace this use of System.out by a logger.(±åÚ„8ó…Å≈Ñ2J$051c737e-ac17-47d9-93a7-bd2aa6c758d5

@@ -1,0 +1,23 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãžýÿÿÿÿ8Ÿ‹ØÆŒ2J$6dde5f65-ab21-408d-a80d-5acec5e7e7b0
+“	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…•Å™8Ÿ‹ØÆŒ2J$b087f542-02b2-4451-bc59-ed6b52f4f71e
+“	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“–¥‘8Ÿ‹ØÆŒ2J$d6da478f-e109-4c25-b5ae-a5eeb2f41c58
+“	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¤‰ó8Ÿ‹ØÆŒ2J$4d2a5f94-a037-41ee-b488-c7d0a7fbb9ba
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8Ÿ‹ØÆŒ2J$20f5306f-62b0-41c5-9359-fc6b01cf5951
+›	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(¾ ùç8Ÿ‹ØÆŒ2J$7d718b1b-791d-4c56-813d-b39810d37104
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(—øãžýÿÿÿÿ8 ‹ØÆŒ2J$e47a1251-91ea-4ad8-baa2-2b066f1d462f
+…
+java:S18545"=Remove this useless assignment to local variable "bestStart".(ô–ß£ýÿÿÿÿ8î÷îÆŒ2J$920f1fef-196d-4b72-84fd-bfc16d11cea2
+~	java:S125"<This block of commented-out lines of code should be removed.(“Î­ú8úèóÆŒ2J$73d5ec78-2653-4c7e-a11b-74e9c0b00d71
+q
+java:S1481$".Remove this unused "bestStart" local variable.(èî8î÷îÆŒ2J$39d325b4-fcca-47e6-bffd-053797c16c06
+ƒ	java:S125<"<This block of commented-out lines of code should be removed.(ôÍ±Øþÿÿÿÿ8î÷îÆŒ2J$82dd95c9-042f-4047-ba2d-c897352b5667
+r	java:S106B"+Replace this use of System.out by a logger.(í‚¶Ìüÿÿÿÿ8˜¼ñÆŒ2J$ad682d64-6e4d-4155-badd-c32751f0c736
+ƒ	java:S125C"<This block of commented-out lines of code should be removed.(†øóÍøÿÿÿÿ8˜¼ñÆŒ2J$f47c1c1c-74a4-43db-9b38-37c41178417e
+m	java:S106G"+Replace this use of System.out by a logger.(žÛ”Ö8¸ýñÆŒ2J$f4965aff-bb3c-439d-93bb-0cbb3a9bd64d
+ƒ	java:S125H"<This block of commented-out lines of code should be removed.(ƒÉ ¼úÿÿÿÿ8˜¼ñÆŒ2J$10f35c42-045c-4cff-ab48-ee1eb6b06a9a
+r	java:S106L"+Replace this use of System.out by a logger.(ÜÎÚ¢ÿÿÿÿÿ8‰ÃòÆŒ2J$fc448d97-a4dd-4e4e-9993-c72738cc2d22
+~	java:S125M"<This block of commented-out lines of code should be removed.(ÓèÇƒ8˜¼ñÆŒ2J$f29dc21b-833d-4adf-af49-8610496e23b5
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ûèóÆŒ2J$0b80fac3-4e90-4dcb-8ec4-1b2c0043d5e8

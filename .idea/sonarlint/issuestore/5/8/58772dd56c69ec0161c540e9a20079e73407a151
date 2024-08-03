@@ -1,0 +1,14 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(í°Ìë8—öþ­ƒ2J$f522df6c-2da8-4759-922b-44310ec943b2
+r	java:S106"+Replace this use of System.out by a logger.(°…ÚÌúÿÿÿÿ8˜öþ­ƒ2J$c55227be-1204-4446-b8d4-1b56c4fb4ff7
+m	java:S106"+Replace this use of System.out by a logger.(‡ÌÀÕ8˜öþ­ƒ2J$27ec0bbf-1bd8-4761-a21a-4796b437dcb3
+r	java:S106"+Replace this use of System.out by a logger.(Õ…õÞÿÿÿÿÿ8˜öþ­ƒ2J$b29864f2-3a73-4511-8b69-e5ac21d257ab
+z
+java:S1854"7Remove this useless assignment to local variable "ist".(ê­Â¨8˜öþ­ƒ2J$24e8d421-cb6e-4ed8-bc00-acae679ec21e
+r
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8™öþ­ƒ2J$62f1c5a3-7d26-42ca-b689-2843f47edfdb
+k
+java:S1481"(Remove this unused "ist" local variable.(ê­Â¨8™öþ­ƒ2J$83e47fd8-55c2-4a2f-889d-c29fbfa68fb9
+r	java:S106!"+Replace this use of System.out by a logger.(±Œßàúÿÿÿÿ8™öþ­ƒ2J$1f74bc69-2f77-4b6e-bea2-a4366337a784
+r	java:S106%"+Replace this use of System.out by a logger.(±Œßàúÿÿÿÿ8™öþ­ƒ2J$099c7c59-f5e4-43df-866d-cb1157a38e5e
+m	java:S106)"+Replace this use of System.out by a logger.(–ù¼š8¾Æ€®ƒ2J$f5c952f8-12cc-4367-b172-19addf6a58d5

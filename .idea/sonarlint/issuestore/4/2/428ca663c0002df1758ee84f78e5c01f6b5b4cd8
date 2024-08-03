@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñ‚îÿÿÿÿÿ8¿Çó…2J$107e864f-6e34-409c-86f1-bb82bbdd866f
+
+java:S1104"MMake v a static final constant or non-public and provide accessors if needed.(Ø¯€¡8¿Çó…2J$edad6f4e-b3bf-4e25-aa1c-f7669374be8d
+j
+java:S1444"'Make this "public static v" field final(Ø¯€¡8¿Çó…2J$1b3d39dd-b4ed-41d9-a437-051557339115
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ÌáËó…2
+L	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÌáËó…2
+L	java:S106&"+Replace this use of System.out by a logger.(¬Ÿ¸şÿÿÿÿ8ÌáËó…2
+L	java:S106("+Replace this use of System.out by a logger.(ªµÃÂüÿÿÿÿ8ÌáËó…2
+G	java:S106)"+Replace this use of System.out by a logger.(±Œòã8ÌáËó…2

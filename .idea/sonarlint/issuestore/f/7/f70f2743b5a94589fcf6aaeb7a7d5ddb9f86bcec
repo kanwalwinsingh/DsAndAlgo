@@ -1,0 +1,16 @@
+
+‰
+java:S1192$"FDefine a constant instead of duplicating this literal "min()" 7 times.(íÁû8±âÑÇ‚2J$75b1e599-7890-4067-986c-cd1fe50ddb7e
+Œ
+java:S1192$"IDefine a constant instead of duplicating this literal "MinStack" 5 times.(íÁû8±âÑÇ‚2J$35d6e95f-e849-44ec-9d1c-35f5de6fb2de
+‰
+java:S1192$"FDefine a constant instead of duplicating this literal "pop()" 4 times.(íÁû8±âÑÇ‚2J$1a67ebe5-0edd-4b4d-b76a-d43c43ac2dd6
+‹
+java:S1192$"HDefine a constant instead of duplicating this literal "push()" 14 times.(íÁû8±âÑÇ‚2J$e135e367-865a-482f-b357-305129a0857f
+r
+java:S1197""*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8´âÑÇ‚2J$d5fa31ba-0bee-41df-b66b-40b53dc27377
+r	java:S1065"+Replace this use of System.out by a logger.(Æö™¿ÿÿÿÿÿ8µâÑÇ‚2J$874f36c8-7a8e-4bb3-835a-7d6f20b37ac7
+r	java:S106:"+Replace this use of System.out by a logger.(®Ì¿ûıÿÿÿÿ8µâÑÇ‚2J$ddfb78e7-a053-4788-8a47-f998fc7f98f3
+r	java:S106="+Replace this use of System.out by a logger.(²Ğé®ûÿÿÿÿ8µâÑÇ‚2J$7381f623-a74a-44b3-ae5b-414a52591fb9
+m	java:S106?"+Replace this use of System.out by a logger.(Óâı¢8µâÑÇ‚2J$d2667152-275b-4597-9698-7992f90b1f84
+m	java:S106B"+Replace this use of System.out by a logger.(±Œòã8µâÑÇ‚2J$b3e67d1f-da65-48e9-aaa7-c4192e65e7a4

@@ -1,0 +1,15 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χ―ª8Σθμ¨‹2J$4c5dcb43-3364-40e9-88b2-f5fcf8ba64f9
+	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Όσήπωÿÿÿÿ8Σθμ¨‹2J$08a2f0c8-3e2e-41a5-a518-7ab03d1ba8cf
+“	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ”Ρμ8Σθμ¨‹2J$2ea5ee96-7676-4204-88ee-0ed769b6b9ae
+	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(―Ω²ϊÿÿÿÿ8Σθμ¨‹2J$ff7714f9-77bd-442e-9213-f6dedb03d6cf
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ψίσ¦8Σθμ¨‹2J$7d2b5e80-7396-4cc4-ac6e-4476205108ed
+w
+java:S1066"/Merge this if statement with the enclosing one.(Ι™Ι¥ψÿÿÿÿ8Σθμ¨‹2J$03b1dfb1-1772-4f20-92f4-5b5943ff15cb
+
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Όσήπωÿÿÿÿ8Υθμ¨‹2J$4d2495bd-4539-4138-9144-e618720e6733
+•
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒ”Ρμ8Φθμ¨‹2J$7da783d4-f961-449c-8b61-b284b45d7dfa
+i
+java:S1481["&Remove this unused "c" local variable.(β³ΐΒ8Μυξ¨‹2J$d6c43187-ea80-4917-a503-779883d063e9
+r	java:S106^"+Replace this use of System.out by a logger.(…Άρ—ÿÿÿÿÿ8Φθμ¨‹2J$0d1fb8a3-f3cf-48f6-89a5-69b117957708

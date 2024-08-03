@@ -1,0 +1,11 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À´Å³ûÿÿÿÿ8¸¯´ˆ2J$5adf1ef2-f554-4cc9-8e9c-dab2e0dd407d
+˜	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¥§’ÿÿÿÿÿ8¹¯´ˆ2J$03548689-50f2-46d8-92c3-28809c6cf3e2
+œ
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ÃÃ’8¹¯´ˆ2J$85422b36-5f50-41b8-8ac4-45572b648c21
+m	java:S106+"+Replace this use of System.out by a logger.(Îìöí8¾¯´ˆ2J$7bc00135-ffeb-452d-8504-708e29c546e5
+r	java:S106,"+Replace this use of System.out by a logger.(èƒŞ–øÿÿÿÿ8¾¯´ˆ2J$8f2a9570-db15-4779-a3ec-f03423766dba
+m	java:S106-"+Replace this use of System.out by a logger.(¨øÍÑ8¾¯´ˆ2J$06961a98-31d7-429d-b2a2-ae6bfca0e6c4
+r	java:S106/"+Replace this use of System.out by a logger.(à‡Úÿúÿÿÿÿ8¾¯´ˆ2J$07ef48e8-2fdd-4d5a-a89e-d0369bb50166
+r	java:S1060"+Replace this use of System.out by a logger.(ôß¦şúÿÿÿÿ8¾¯´ˆ2J$8cefd016-2d64-4215-b57f-cebf9db08731
+m	java:S1061"+Replace this use of System.out by a logger.(±Œòã8¿¯´ˆ2J$4757f8e4-1c43-48ba-8afc-d819a84b5728

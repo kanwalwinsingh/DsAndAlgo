@@ -1,0 +1,10 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãıÿÿÿÿ8èÖûŠ2
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÃ98‘èÖûŠ2
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïØ–8‘èÖûŠ2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÆÎÏıÿÿÿÿ8‘èÖûŠ2
+m	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŒò€8‘èÖûŠ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8‘èÖûŠ2
+d
+java:S1659"GDeclare "maxProffit" and all following declarations on a separate line.(ıÃ¿«8“èÖûŠ2
+G	java:S106$"+Replace this use of System.out by a logger.(¿øåî8“èÖûŠ2

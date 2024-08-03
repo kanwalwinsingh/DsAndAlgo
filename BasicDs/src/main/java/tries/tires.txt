@@ -1,0 +1,2 @@
+Trie basically come from the word retrival it is used in dictionary, search engine and IP routing.
+usage-> auto complete, spell checking, Contact searching,

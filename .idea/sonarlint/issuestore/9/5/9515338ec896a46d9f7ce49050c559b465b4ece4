@@ -1,0 +1,15 @@
+
+“	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Îç8ğÂøÑ‹2J$69726b74-2f52-433c-b881-722507fc4904
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¼ş:8ğÂøÑ‹2J$370d452c-3605-41a6-b38c-68d81af76b30
+_
+java:S1116
+"Remove this empty statement.(¡Îç8òÂøÑ‹2J$5df40e68-98f8-4c01-9a18-c790b31fa9eb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÓÀ³úÿÿÿÿ8¯÷øÑ‹2J$8cf0eedf-8d0e-447f-a8ff-8440e6a71a2b
+m	java:S106"+Replace this use of System.out by a logger.(àÅÑå8ôÂøÑ‹2J$5b6058e7-44fd-4c67-9ae9-06160dd0d764
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¯÷øÑ‹2J$57467aeb-fe35-447d-82e8-e01fa745d2d8
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ôÂøÑ‹2J$7d5ae5b5-f9e5-4074-9c9f-20d4260b1a54
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8°÷øÑ‹2J$22c75e43-4ff4-46c4-a56f-63c97bc1b7bd

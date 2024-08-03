@@ -1,0 +1,16 @@
+
+©
+java:S1319"fThe type of "result" should be an interface such as "List" rather than the implementation "ArrayList".(©«×Ğ8âéİƒ2J$283ec31a-8338-4ab7-866a-c4f85aefc2f3
+¸
+java:S13190"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÃòªÖşÿÿÿÿ8âéİƒ2J$c45da598-f68f-4840-8866-418b1a2a174c
+‹
+java:S22594"H"NullPointerException" will be thrown when invoking method "getWords()".(ó¤æ8á¤àƒ2J$8ec027f5-a83b-4f0d-9d40-358f82f44bbf
+_
+java:S1643!"Use a StringBuilder instead.(ñÔî·8âéİƒ2J$5a963d64-e82a-40f5-b032-b3742d010e6a
+k
+java:S1481:"(Remove this unused "num" local variable.(Ï¤°8ùÉáƒ2J$e2aefde8-4bbd-43a2-862c-be6a04e87d93
+m	java:S106F"+Replace this use of System.out by a logger.(†Ññ8ùÉáƒ2J$8c834918-0022-4f96-a249-409e1137b1f4
+m	java:S106K"+Replace this use of System.out by a logger.(¦ÃâÎ8ùÉáƒ2J$3b6d6601-fcc6-474c-b2db-84d7e5148707
+m	java:S106M"+Replace this use of System.out by a logger.(…ïÛ‚8ùÉáƒ2J$3da68f6a-4db4-4179-82fe-f0e9c82595ce
+r	java:S106O"+Replace this use of System.out by a logger.(Ù—êÄşÿÿÿÿ8ùÉáƒ2J$58a2a368-ed4b-4d3a-82fe-1a42be0b8db3
+r	java:S106V"+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8úÉáƒ2J$2395a87d-fee0-44f7-9fca-08f98b858a64

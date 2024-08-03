@@ -1,0 +1,11 @@
+
+8
+java:S1643*"Use a StringBuilder instead.(õÆ‹8Ôµ ƒ2
+>
+java:S1643,"Use a StringBuilder instead.(ûÅ£œúÿÿÿÿ8Ôµ ƒ2
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8×µ ƒ2
+G	java:S1064"+Replace this use of System.out by a logger.(Ã™Û¿8×µ ƒ2
+L	java:S1065"+Replace this use of System.out by a logger.(ô“’ûÿÿÿÿ8×µ ƒ2
+G	java:S1067"+Replace this use of System.out by a logger.(ğœçƒ8×µ ƒ2
+L	java:S1068"+Replace this use of System.out by a logger.(±ÒŠ¶şÿÿÿÿ8Øµ ƒ2

@@ -1,0 +1,14 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÂÅÎJ$9414b6a1-fdd7-46e2-a408-11638580a3ae
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦J$4fc8fe49-e270-4a08-91a9-5b15d93b1562
+k
+java:S10664"/Merge this if statement with the enclosing one.(Î×äùJ$adbb6b42-24ce-4c29-898c-d41c46b33879
+|	java:S125"<This block of commented-out lines of code should be removed.(œ»¢žûÿÿÿÿJ$e8f17ee5-87ef-4463-bf66-42960d16069f
+Œ
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(èŠœ›ûÿÿÿÿJ$1088a750-83dd-4eab-90ee-1a29f23ca605
+b	java:S131""Add a default case to this switch.(èŠœ›ûÿÿÿÿJ$3ebeb779-51a2-4e8d-a0a4-9100a9e2ddc7
+c
+java:S11254"'Remove the unnecessary boolean literal.(Î×äùJ$7cf37b0b-2f2e-41d6-9829-a62bd5ca46a5
+f	java:S106@"+Replace this use of System.out by a logger.(¨¸ŸÃJ$77120076-9065-475f-b385-edbd93142c7c
+f	java:S106A"+Replace this use of System.out by a logger.(¹Š»J$ed7dc2a8-6af9-4a8c-aa0f-08d2540f84e0
+e	java:S106B"+Replace this use of System.out by a logger.(¤‰ >J$af5bd305-c6c3-4e41-be91-bc045dd4c729

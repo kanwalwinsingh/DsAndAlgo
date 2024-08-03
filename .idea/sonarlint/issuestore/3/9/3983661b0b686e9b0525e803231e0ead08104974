@@ -1,0 +1,22 @@
+
+˜	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾í¤©üÿÿÿÿ8´ÕÙÿ„2J$f089b238-5ac1-41bf-83ef-83a986653463
+r
+java:S1197""*Move the array designators [] to the type.(äÿÁÌıÿÿÿÿ8¸ÕÙÿ„2J$26e557dd-a909-45fe-820f-0425b23490ec
+r
+java:S1197""*Move the array designators [] to the type.(äÿÁÌıÿÿÿÿ8¸ÕÙÿ„2J$4b22159d-9b0a-4b4a-8ecf-3ca9b2aa0255
+r
+java:S1197("*Move the array designators [] to the type.(Ãöşÿÿÿÿ8¸ÕÙÿ„2J$f4a63187-a963-42a4-b973-974d89fdc497
+m
+java:S1197)"*Move the array designators [] to the type.(¿¹ª8¸ÕÙÿ„2J$c5d833b6-4b9d-41e0-941c-5e97da2ed1d4
+r
+java:S1197\"*Move the array designators [] to the type.(º ìıÿÿÿÿ8ºÕÙÿ„2J$2b1eaefb-f0ab-42fa-b581-dccdaf6269f5
+m
+java:S1197^"*Move the array designators [] to the type.(Ğ™8ºÕÙÿ„2J$03159a66-6b21-4644-8a79-9c31418f2320
+r
+java:S1197_"*Move the array designators [] to the type.(Àõèˆøÿÿÿÿ8ºÕÙÿ„2J$0915dab0-3b64-43e4-89bc-50cf1a42dc2a
+r	java:S106c"+Replace this use of System.out by a logger.(Åäî¤ıÿÿÿÿ8»ÕÙÿ„2J$75b53d82-8f3f-440d-9965-a73cc6c11324
+r	java:S106f"+Replace this use of System.out by a logger.(ô‡ïˆüÿÿÿÿ8»ÕÙÿ„2J$24eb6ede-6f2a-4c8c-9322-7a413dd060a0
+ˆ
+java:S1128"ERemove this unused import 'javax.imageio.plugins.tiff.TIFFDirectory'.(«××ë8»ÕÙÿ„2J$97cc8ac0-7cbf-44b1-95b7-a85f3986e053
+
+java:S1128"<Remove this unused import 'javax.sound.midi.MidiFileFormat'.(¯––è8»ÕÙÿ„2J$1d20f5b5-7c8a-4ca0-8b81-d0d6e56d9866

@@ -1,0 +1,21 @@
+Tree:- A tree is a hierarchical structure that consist of nodes that are connected using pointers(edges).
+In a tree a cycle cannot exists.
+Sub-tree:- a subtree is a portion of tree that can be viewed as a complete tree on its own.
+Degree:- The degree of a node referes to the total number of sub-trees of a node.
+Depth:- The number of connections(edges) from the root to a node is known as depth of that node.
+level:- depth of node +1
+Height o a node:- the maximum number of connections between the node and a leaf node in its path is known as the height of node.
+Height of a tree:- the height of its root node.
+
+Most common trees are:-
+1) n-ary tree, balanced tree, Binary tree, BinarySearch Tree, AVL Tree, Red-Black Tree, 2-3 tree.
+
+balanced tree- its a tree in which almost all the leaf nodes are present at the same level
+height(tree) = O(log2(nodes)) i.e height(leftsubtree) - height(rightsubtree)| <=1
+
+Types of Binary tree:-
+Complete Binary tree:- all levels are filled except possible the last one
+
+, full binary tree, perfect binary tree
+
+

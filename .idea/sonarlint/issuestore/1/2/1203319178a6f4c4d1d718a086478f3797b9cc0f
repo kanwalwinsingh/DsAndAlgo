@@ -1,0 +1,9 @@
+
+r	java:S106+"+Replace this use of System.out by a logger.(È«‚‡ûÿÿÿÿ8¼šùÇ2J$705da401-c504-47e4-95a8-bc92ba2ed843
+r	java:S1061"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8½šùÇ2J$0c0287f5-e52d-4e2b-b85b-561888622500
+r
+java:S16114"/Remove the parentheses around the "s" parameter(êĞ­Ù8¾šùÇ2J$145572fa-5af9-4ab9-8d1b-858c0b9fc7df
+ƒ
+java:S16124"@Replace this lambda with method reference 'System.out::println'.(êĞ­Ù8¡ûÉ2J$44541dbb-7653-4e30-8bd1-9eb3289d8805
+m	java:S1064"+Replace this use of System.out by a logger.(êĞ­Ù8¾šùÇ2J$c17a3d28-e2ee-40ed-95e9-fdd79510d7b6
+]	java:S1256"<This block of commented-out lines of code should be removed.(‡Š¬×ıÿÿÿÿ8Ëî‘É2

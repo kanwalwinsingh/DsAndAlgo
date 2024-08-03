@@ -1,0 +1,15 @@
+
+z
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "count".(ÂŸ½Ä8˜³º…2
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾ºŠ³ıÿÿÿÿ8˜³º…2
+[
+java:S1155	">Use isEmpty() to check whether the collection is empty or not.(ÙĞ”Ï8˜³º…2
+G	java:S106!"+Replace this use of System.out by a logger.(´”³à8˜³º…2
+L	java:S106#"+Replace this use of System.out by a logger.(‰Üíšşÿÿÿÿ8˜³º…2
+G	java:S106%"+Replace this use of System.out by a logger.(Çõ©˜8˜³º…2
+L
+java:S1197)"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8‘˜³º…2
+L	java:S106S"+Replace this use of System.out by a logger.(´Œ¿óûÿÿÿÿ8’˜³º…2
+F	java:S106U"+Replace this use of System.out by a logger.(ä¥l8’˜³º…2
+G	java:S106V"+Replace this use of System.out by a logger.(±Œòã8’˜³º…2

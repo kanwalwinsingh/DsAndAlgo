@@ -1,0 +1,15 @@
+
+³
+java:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¿½Û·8©²œîƒ2J$ad52b1d7-7e7b-4d77-841c-67dc95f41e65
+z
+java:S1854"7Remove this useless assignment to local variable "dup".(¦ÅÀÓ8«²œîƒ2J$b7cb401a-44d0-4b46-bd44-5aec4414fd4f
+p
+java:S1481"(Remove this unused "dup" local variable.(ùÀˆøÿÿÿÿ8«²œîƒ2J$8424614d-03e3-4ce8-9c4c-2e8a97d81f45
+m
+java:S1481"*Remove this unused "index" local variable.(ìüà·8¬²œîƒ2J$2449d3ae-0d44-42f8-b0db-78cbcb32a0d3
+L
+java:S1197!"*Move the array designators [] to the type.(ŸºÙÚşÿÿÿÿ8Î¯îƒ2
+G	java:S106."+Replace this use of System.out by a logger.(£Á­´8Î¯îƒ2
+G
+java:S11970"*Move the array designators [] to the type.(²ò8Î¯îƒ2
+L	java:S1066"+Replace this use of System.out by a logger.(…Ìîúÿÿÿÿ8Ï¯îƒ2

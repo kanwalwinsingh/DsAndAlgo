@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(΅Σ¬ϊÿÿÿÿ8›νδ2
+d
+java:S2259"BA "NullPointerException" could be thrown; "node" is nullable here.(Ώφΰ¥ύÿÿÿÿ8›νδ2
+;
+java:S2178"Correct this "&" to "&&".(Ώφΰ¥ύÿÿÿÿ8›νδ2
+L	java:S106."+Replace this use of System.out by a logger.(ªϋΗϋÿÿÿÿ8›νδ2
+G	java:S106/"+Replace this use of System.out by a logger.(νΪω8›νδ2
+L	java:S1060"+Replace this use of System.out by a logger.(…αγύÿÿÿÿ8›νδ2
+G	java:S1062"+Replace this use of System.out by a logger.(Π‰Βª8›νδ2

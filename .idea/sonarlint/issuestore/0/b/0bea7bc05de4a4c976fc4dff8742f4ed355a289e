@@ -1,0 +1,11 @@
+
+m
+java:S1104"PMake root a static final constant or non-public and provide accessors if needed.(İËşÃ8©ôœƒ2
+m	java:S106"+Replace this use of System.out by a logger.(•æÚ8—ê›ƒ2J$462c90e1-7e2a-40ba-89a1-0035f88395b5
+}	java:S125"<This block of commented-out lines of code should be removed.(¼£æ@8—ê›ƒ2J$b0cbdf80-3f66-4aeb-b960-65dc11fd26c5
+‡
+java:S1854P"?Remove this useless assignment to local variable "currentNode".(”…ä¬øÿÿÿÿ8—ê›ƒ2J$1a022e67-f908-4b08-8b29-104df465394b
+‡
+java:S1854d"?Remove this useless assignment to local variable "currentNode".(”…ä¬øÿÿÿÿ8—ê›ƒ2J$71d17594-4e4a-4b50-b732-d4b0898ae97d
+r	java:S106H"+Replace this use of System.out by a logger.(ÇÆ”şÿÿÿÿ8—ê›ƒ2J$56c89408-af02-45a8-8470-d4ab731ec94f
+r	java:S106q"+Replace this use of System.out by a logger.(Öàœøÿÿÿÿ8Ÿ—ê›ƒ2J$835c3a78-c4fc-42b1-aafb-9ae395b8a006

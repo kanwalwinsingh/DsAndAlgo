@@ -1,0 +1,11 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬íå½ÿÿÿÿÿ8ªœ·ü‰2J$b20eea35-f03d-4a2f-b87b-a18ad4b1fe2e
+•
+java:S3008"RRename this field "max_ref" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôé8ªœ·ü‰2J$d8d38f2b-e8d7-4861-ad71-6b0aaedf7e77
+u
+java:S1659"-Declare "max_ending_here" on a separate line.(¬íå½ÿÿÿÿÿ8«œ·ü‰2J$3308bb88-0243-4d1b-b716-4e00f4f46304
+L
+java:S1197&"*Move the array designators [] to the type.(º ìıÿÿÿÿ8Ğƒ¸ü‰2
+L
+java:S1197("*Move the array designators [] to the type.(ÊÒ”§ûÿÿÿÿ8Ğƒ¸ü‰2
+L	java:S106,"+Replace this use of System.out by a logger.(Àˆœëûÿÿÿÿ8Ğƒ¸ü‰2

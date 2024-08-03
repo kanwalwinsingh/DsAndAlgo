@@ -1,0 +1,21 @@
+
+˜	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ø¥Ûÿÿÿÿÿ8¼æ¬‹2J$1aaa0e03-1dde-4b23-b8d8-889dd920516f
+˜	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ø¥Ûÿÿÿÿÿ8¼æ¬‹2J$dc434554-f524-4c8b-91f4-578e1dd02bbe
+˜	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ø¥Ûÿÿÿÿÿ8¼æ¬‹2J$18ceeb67-035c-461c-b153-aaea838dabd9
+˜	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ë”şÿÿÿÿ8¼æ¬‹2J$f299edd5-90f4-4666-b5e2-b49cdea85a60
+˜	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ë”şÿÿÿÿ8¼æ¬‹2J$258888b5-99c7-4337-bbde-f161ea3732a1
+˜	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ë”şÿÿÿÿ8¼æ¬‹2J$389ec0c8-f8e5-4248-9558-5e580f23d66e
+“	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÅïû8¼æ¬‹2J$b6fd69cb-257f-4137-b817-94c7d83fedb3
+“	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ºÎ±8¼æ¬‹2J$f289b75e-b76a-42d9-9504-20ac93f53bd9
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¼ş:8¼æ¬‹2J$499bcbbe-bfe5-4483-ac0b-cf34b5f0f1b1
+p
+java:S11722"(Remove this unused method parameter "N".(•ø¥Ûÿÿÿÿÿ8¿æ¬‹2J$baeef182-27a2-46ad-b14e-fd5e3b7eed0d
+š
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(—Ë”şÿÿÿÿ8Ï©ò¬‹2J$b208bb21-e98f-4ed3-bbb8-0dd32a120a1e
+r
+java:S1656J"/Remove or correct this useless self-assignment.(»Íƒ¥8Ğ©ò¬‹2J$6a106305-7fcd-4dc9-a924-a90e7cef7db5
+j
+java:S1125R"'Remove the unnecessary boolean literal.(ŞÿÕè8Ğ©ò¬‹2J$51a03b7d-9990-44ea-9792-70010f2b45bc
+j
+java:S1125k"'Remove the unnecessary boolean literal.(ü¯Ş‚8Ğ©ò¬‹2J$6ef02046-0eb5-414c-814c-87f1d2399258
+r	java:S106~"+Replace this use of System.out by a logger.(ç‡“šùÿÿÿÿ8Àæ¬‹2J$c6d8a965-5050-43fc-9e69-491065674151

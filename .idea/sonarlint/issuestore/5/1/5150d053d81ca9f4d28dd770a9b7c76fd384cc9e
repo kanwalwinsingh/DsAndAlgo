@@ -1,0 +1,15 @@
+
+˜
+java:S1149^"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ƒ´ Ô„2J$040d6a2d-b6ca-4fd9-aeba-5aaf9bc069fb
+r
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ8„´ Ô„2J$8f72eee9-fa19-4b31-88ea-d9173bac298c
+m	java:S106"+Replace this use of System.out by a logger.(øŠŞ8„´ Ô„2J$7b3e44f4-ab30-4d2f-935e-191eb13d7ef8
+‰
+java:S1854<"ARemove this useless assignment to local variable "prevOfSlowptr".(ÿÜÑÜûÿÿÿÿ8È–£Ô„2J$d480f1ba-4d3f-46b8-9de8-666885a31a3d
+h
+java:S1659"%Declare "fastPtr" on a separate line.(¹Ñİ·8„´ Ô„2J$b343a1cf-3e96-4019-8bf0-ff61819c1887
+~	java:S125"<This block of commented-out lines of code should be removed.(×¥§‚8„´ Ô„2J$f4218869-6d91-42c4-8f93-e019e803cdff
+j
+java:S1659C""Declare "next" on a separate line.(Ã³ş†ıÿÿÿÿ8…´ Ô„2J$eb8690d4-ea17-4e92-8381-447880df7e22
+o
+java:S1481]",Remove this unused "isPalin" local variable.(…ëäş8…´ Ô„2J$391b840b-93ff-4efa-a8c8-19451008c32d

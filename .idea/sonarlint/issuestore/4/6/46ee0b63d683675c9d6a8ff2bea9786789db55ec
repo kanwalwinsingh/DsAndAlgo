@@ -1,0 +1,13 @@
+
+œ
+java:S1104"TMake vertices a static final constant or non-public and provide accessors if needed.(ËÖÑ‹øÿÿÿÿ8Ë¹çÚ‚2J$db6cf3f2-4641-4953-932d-0ef328675585
+›
+java:S1104	"YMake adjacencyList a static final constant or non-public and provide accessors if needed.(ªşËV8Ì¹çÚ‚2J$3cd73f4e-2974-4f3f-a917-ef01d80b9bf5
+l
+java:S1197	"*Move the array designators [] to the type.(ªşËV8Í¹çÚ‚2J$297f7722-f392-4e61-adc6-6b8ff1cf720d
+~	java:S125"<This block of commented-out lines of code should be removed.(İÎĞ8Î¹çÚ‚2J$4a2f6420-5586-4933-9e54-847c0196e3f0
+m	java:S106"+Replace this use of System.out by a logger.(™‚–É8Î¹çÚ‚2J$2ef4451a-12be-44cb-9e15-dbcfe77c6361
+m	java:S106""+Replace this use of System.out by a logger.(‘‹ ¾8Î¹çÚ‚2J$278f033f-e63c-410b-83fb-a985f898b02c
+m	java:S106&"+Replace this use of System.out by a logger.(î™—8Ï¹çÚ‚2J$28cc4470-23b8-4736-875d-91849807f6bf
+r	java:S106)"+Replace this use of System.out by a logger.(Âû¯Ğüÿÿÿÿ8Ï¹çÚ‚2J$a64c1bb9-14ad-4a76-b722-501091461388
+r	java:S106,"+Replace this use of System.out by a logger.(ïûÀ¦şÿÿÿÿ8Ï¹çÚ‚2J$ec4c2431-db16-4ef0-abd1-f0afe5aed66f

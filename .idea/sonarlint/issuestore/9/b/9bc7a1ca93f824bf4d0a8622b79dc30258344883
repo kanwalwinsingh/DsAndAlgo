@@ -1,0 +1,10 @@
+
+L	java:S106;"+Replace this use of System.out by a logger.(„Àºîüÿÿÿÿ8‚À¢¼…2
+L	java:S106@"+Replace this use of System.out by a logger.(ÙÏÿÙıÿÿÿÿ8‚À¢¼…2
+L	java:S106B"+Replace this use of System.out by a logger.(É¨Ø·úÿÿÿÿ8‚À¢¼…2
+R
+java:S1751C"5Remove this "break" statement or make it conditional.(›ûä·8ƒÀ¢¼…2
+G	java:S106I"+Replace this use of System.out by a logger.(×­±Ø8ƒÀ¢¼…2
+R
+java:S1751J"5Remove this "break" statement or make it conditional.(›ûä·8ƒÀ¢¼…2
+G	java:S106M"+Replace this use of System.out by a logger.(±Œòã8ƒÀ¢¼…2

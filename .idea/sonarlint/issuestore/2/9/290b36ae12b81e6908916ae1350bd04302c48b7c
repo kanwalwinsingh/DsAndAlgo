@@ -1,0 +1,23 @@
+
+r
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(–ú‚Áøÿÿÿÿ8êÿúÈ‚2
+v
+java:S1104"TMake nextNode a static final constant or non-public and provide accessors if needed.(‡¤«İÿÿÿÿÿ8êÿúÈ‚2
+v
+java:S1104	"TMake prevNode a static final constant or non-public and provide accessors if needed.(ª¨°Öúÿÿÿÿ8êÿúÈ‚2
+v
+java:S1104"TMake headNode a static final constant or non-public and provide accessors if needed.(ˆæ’¢ùÿÿÿÿ8êÿúÈ‚2
+v
+java:S1104"TMake tailNode a static final constant or non-public and provide accessors if needed.(Èœµùøÿÿÿÿ8ĞÃüÈ‚2
+r
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(õ˜óøÿÿÿÿ8êÿúÈ‚2
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(³ò¬şÿÿÿÿ8ÒÃüÈ‚2
+L	java:S106D"+Replace this use of System.out by a logger.(Šà¯»úÿÿÿÿ8íÿúÈ‚2
+G	java:S106I"+Replace this use of System.out by a logger.(åÌåú8íÿúÈ‚2
+G	java:S106L"+Replace this use of System.out by a logger.(ñµ‚…8íÿúÈ‚2
+L	java:S106P"+Replace this use of System.out by a logger.(Ãå†İüÿÿÿÿ8íÿúÈ‚2
+L	java:S106U"+Replace this use of System.out by a logger.(Šà¯»úÿÿÿÿ8ÓÃüÈ‚2
+G	java:S106Y"+Replace this use of System.out by a logger.(åÌåú8ÓÃüÈ‚2
+G	java:S106\"+Replace this use of System.out by a logger.(ñµ‚…8ÓÃüÈ‚2
+L	java:S106`"+Replace this use of System.out by a logger.(Ãå†İüÿÿÿÿ8ÓÃüÈ‚2

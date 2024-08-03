@@ -1,0 +1,11 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(’–Ï„8ô¯…õ„2J$62465f68-9213-4ebf-ac37-f1d7a11819bb
+}
+java:S1854"5Remove this useless assignment to local variable "m".(ÙÝ«Éúÿÿÿÿ8ô¯…õ„2J$46312101-feca-4536-b30d-c2b8e41669e8
+}
+java:S1854"5Remove this useless assignment to local variable "n".(­Íé¿þÿÿÿÿ8ô¯…õ„2J$ec77997e-56ea-4a16-99a6-e69d3e070dad
+n
+java:S1481"&Remove this unused "n" local variable.(­Íé¿þÿÿÿÿ8ô¯…õ„2J$280a0f7c-75bf-44a9-8d9c-9638841502a7
+n
+java:S1481"&Remove this unused "m" local variable.(ÙÝ«Éúÿÿÿÿ8ô¯…õ„2J$d013cee4-526d-4fc2-9329-fa8e926247aa

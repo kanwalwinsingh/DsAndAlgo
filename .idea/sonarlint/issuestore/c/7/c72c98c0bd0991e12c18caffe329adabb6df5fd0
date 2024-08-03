@@ -1,0 +1,15 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áà¹¶üÿÿÿÿ8ôÃçùƒ2J$ef572530-19ad-4dee-8c2c-88b40cbff9b5
+f
+java:S1659"#Declare "count" on a separate line.(°°í¾8÷Ãçùƒ2J$bf7dce32-22f6-42f8-876b-7ef20e18c0b9
+m
+java:S1197:"*Move the array designators [] to the type.(àşíÊ8øÃçùƒ2J$4b79d661-c960-4685-8229-1cd68abb4a1c
+l
+java:S1197;"*Move the array designators [] to the type.(ºÃ 8øÃçùƒ2J$126f0e1f-9b2b-4efb-9635-d445bc618409
+r	java:S106="+Replace this use of System.out by a logger.(”šÒ‚ûÿÿÿÿ8øÃçùƒ2J$a08d70b1-9ed0-4d81-81b7-0e6d7a3c5785
+r	java:S106@"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ùÃçùƒ2J$5ff13f4d-364f-46fc-acc7-18a8843fca9a
+r
+java:S1197C"*Move the array designators [] to the type.(¤ø°Ûøÿÿÿÿ8ùÃçùƒ2J$9b798537-213d-4a9d-868c-00a119cd28bd
+m
+java:S1197D"*Move the array designators [] to the type.(çËÿÅ8ùÃçùƒ2J$cbe912e6-d968-40b4-a79e-fc6fbbb3717a
+r	java:S106F"+Replace this use of System.out by a logger.(»ÛÃÌüÿÿÿÿ8ùÃçùƒ2J$58652dfa-896e-4d12-8d59-72324000e45d

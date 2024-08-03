@@ -1,0 +1,13 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãıÿÿÿÿ8Ç”ÜúŠ2J$d9376cf9-8a7c-4e91-ace0-fa8deb0883a7
+“	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øàåŞ8Ç”ÜúŠ2J$8b64c6c9-abbc-4942-996c-52904d87e782
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8Ç”ÜúŠ2J$7a776fa9-e74e-4f58-bfca-bcd609843023
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(—øãıÿÿÿÿ8È”ÜúŠ2J$7a59f3f4-778e-4f29-b0ab-2a514c1f31db
+
+java:S1659">Declare "n" and all following declarations on a separate line.(‹ Èÿ8É”ÜúŠ2J$087e6e04-73ff-49bc-ad84-83f2e861c412
+f
+java:S1659#"$Declare "leader" on a separate line.(¹¨øs8É”ÜúŠ2J$2be71659-fa30-44e8-b2fb-ebebc139c868
+l
+java:S1659."$Declare "result" on a separate line.(¸ëäôøÿÿÿÿ8É”ÜúŠ2J$668fcefc-4607-4980-b869-75c692a45cf6
+m	java:S106>"+Replace this use of System.out by a logger.(¿øåî8É”ÜúŠ2J$d3833a55-e682-4c66-9863-ed915a569afb

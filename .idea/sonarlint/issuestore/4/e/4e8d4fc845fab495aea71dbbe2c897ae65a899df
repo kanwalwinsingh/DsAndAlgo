@@ -1,0 +1,10 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïðª™8¦ëö×Š2J$89ead8fa-1577-42ba-a585-f4ecf79ad8b7
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–œ±Îÿÿÿÿÿ8¦ëö×Š2J$4fa9cad1-bf83-4a03-83c0-2edbf9afe856
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðóùë8¦ëö×Š2J$eaf9aa2d-c6ae-4382-b705-1f6622352a9c
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú™Àö8¦ëö×Š2J$95d091bf-c326-41a8-b80a-d28e72cc576a
+m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÈÆå8®Ðø×Š2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8¦ëö×Š2J$bac52e32-cbbd-429b-b777-42069915dfda
+}
+java:S6885"5Use "Math.clamp" instead of "Math.min" or "Math.max".(¡Â¼åüÿÿÿÿ8¨ëö×Š2J$e7e53678-9e71-44e8-9b47-257c9b36ede7
+G	java:S106("+Replace this use of System.out by a logger.(ÁÜÁÈ8±Ðø×Š2

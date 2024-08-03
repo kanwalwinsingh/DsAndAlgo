@@ -1,0 +1,11 @@
+
+˜	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãžýÿÿÿÿ8¤Â€ÝŠ2J$a813defe-a32d-40f0-be01-4a61d7f93c0a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8¤Â€ÝŠ2J$0bd2879c-da6e-4e33-b32e-c6b6bfb1149f
+X	java:S125"<This block of commented-out lines of code should be removed.(™ÓÃÜ8Ñ©ÝŠ2
+m	java:S106"+Replace this use of System.out by a logger.(àÃ‰Ù8¥Â€ÝŠ2J$5aa1f2a4-5c14-4a09-b03d-e251ed807d03
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¥Â€ÝŠ2J$2e3f6ac3-2c46-4f44-9631-6d402f03f067
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8¥Â€ÝŠ2J$c5166336-cfaa-4582-889c-11d157846246
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ñ©ÝŠ2

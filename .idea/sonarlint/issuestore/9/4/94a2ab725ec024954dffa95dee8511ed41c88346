@@ -1,0 +1,11 @@
+
+|
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÕşêÉÿÿÿÿÿ8€°Õ¥…2J$ab3190d9-3006-4372-91fa-a519902d858b
+„
+java:S1126"AReplace this if-then-else statement by a single return statement.(íúÂ8ÚËÖ¥…2J$90aa4605-d4af-4cdd-827b-7bd7794d964b
+r
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ÈŞÚ¥…2J$7c0d4bc2-fc19-4402-b24a-ebe015ffbf23
+r	java:S106 "+Replace this use of System.out by a logger.(ÉÏ²ùıÿÿÿÿ8ÈŞÚ¥…2J$7d602fb5-e111-4c20-a128-4fd336cda22e
+r	java:S106""+Replace this use of System.out by a logger.(ÖĞ÷íıÿÿÿÿ8ÈŞÚ¥…2J$51160aaa-778d-4b22-b45a-2f33257152c7
+r	java:S106#"+Replace this use of System.out by a logger.(Ñ„¤øüÿÿÿÿ8ÈŞÚ¥…2J$a34e6462-58a6-4d66-9d00-e0860ae0fd88
+r	java:S106$"+Replace this use of System.out by a logger.(†·§ÿÿÿÿÿ8ÈŞÚ¥…2J$84a3f545-b115-4df3-b882-076005474218

@@ -1,0 +1,12 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÄìè8†‡öŠ2J$17f5eda5-0f50-4589-8cfd-5c28ca5a4911
+“	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û†ÃÌ8†‡öŠ2J$a832ace2-c652-47ed-ae30-5fefdc6e5f95
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øßó¦8†‡öŠ2J$216f6203-53c2-485e-8b43-07cbfb1b2e58
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ªÄìè8ˆ‡öŠ2J$8c0bafa5-45b0-40a8-8b6b-17a26a4b1cc7
+i	java:S131""Add a default case to this switch.(Œ¹ÿÿÿÿÿ8ˆ‡öŠ2J$09d21f27-3ef7-473a-9f59-20ad5c449366
+m	java:S106R"+Replace this use of System.out by a logger.(€ëïù8Š‡öŠ2J$5da373b7-9ba5-4d44-99d3-e016616d13a9
+r	java:S106S"+Replace this use of System.out by a logger.(åË¯íüÿÿÿÿ8Š‡öŠ2J$67a53bd2-6224-4fd5-9b0c-ef34d2e5e00a
+r	java:S106T"+Replace this use of System.out by a logger.(Õ‡éÚÿÿÿÿÿ8µÁöŠ2J$661a0265-8510-428e-a406-c3810ec3e72d
+m	java:S106U"+Replace this use of System.out by a logger.(Ñ‰›è8ˆ¢öŠ2J$73bbe8d0-881d-44e9-a33f-f6fa92aea7b5
+r	java:S106V"+Replace this use of System.out by a logger.(Õ‡éÚÿÿÿÿÿ8ˆ¢öŠ2J$aaa2a238-e0fc-4ef2-9504-5130110ddf2a

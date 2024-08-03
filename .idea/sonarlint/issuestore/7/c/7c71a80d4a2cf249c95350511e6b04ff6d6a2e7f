@@ -1,0 +1,9 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãžýÿÿÿÿ8­ä¹£‹2J$d551b8cb-361e-4bc8-9e06-c47c353dadbe
+˜	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔËñ§ûÿÿÿÿ8‚ØÅ£‹2J$57c18353-168a-4a03-883a-10223026a057
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¼þ:8µŽ¡£‹2J$b4ae4792-8be5-4aa5-a2ec-9e17a6ad77b9
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(—øãžýÿÿÿÿ8ƒØÅ£‹2J$0fbbeb05-6a65-4678-8702-760eef1e3fe4
+k
+java:S1659"(Declare "peaksCount" on a separate line.(ù®ãŠ8ƒØÅ£‹2J$f58dc697-d371-4777-93c1-6ec2209b20ae
+m	java:S1060"+Replace this use of System.out by a logger.(¿øåî8·Ž¡£‹2J$1c64d346-ac41-414e-a65b-e1be2dd9a7ef

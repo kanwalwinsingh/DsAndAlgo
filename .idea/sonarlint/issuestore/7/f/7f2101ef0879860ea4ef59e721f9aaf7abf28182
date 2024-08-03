@@ -1,0 +1,21 @@
+
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÿµğ–†2J$9c7235b4-f3ae-4093-a6ee-e9d61ec9d4fc
+\
+java:S1854"":Remove this useless assignment to local variable "parent".(Şœ¦ìüÿÿÿÿ8Ğ¦º˜†2
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.( Æø½8Ú–ë†2J$db9fc9a7-e009-4a7e-a525-df23db3e944e
+r	java:S106"+Replace this use of System.out by a logger.(Ö„É¯øÿÿÿÿ8Ú–ë†2J$2b51fbd6-0b36-41f6-b2b2-dc2e798b9ea2
+m	java:S106"+Replace this use of System.out by a logger.(„¿”8Û–ë†2J$235bf766-3cbf-4bcd-ada2-6413a8a93414
+€
+java:S1612"=Replace this lambda with method reference 'Integer::valueOf'.(Æ©œÀ8Û–ë†2J$f6da496a-2859-4301-b036-d3d25183d50c
+m	java:S106"+Replace this use of System.out by a logger.(Æ©œÀ8Û–ë†2J$f92c6f51-fe31-4e89-861a-c7175815de22
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(Õâì¦8Û–ë†2J$c54938be-f63e-40cd-aaa8-2bc6ab7bb523
+r	java:S106"+Replace this use of System.out by a logger.(€ÿÛƒúÿÿÿÿ8Ü–ë†2J$2b5d4eec-df2d-4af7-bf43-b8e66ece8fa1
+M
+java:S1481""+Remove this unused "parent" local variable.(Şœ¦ìüÿÿÿÿ8Ó¦º˜†2
+r	java:S106*"+Replace this use of System.out by a logger.(•¹¦½ùÿÿÿÿ8ƒ¶ğ–†2J$acacc5e5-b67a-4a30-8cb9-419fb972baab
+w
+java:S1128"4Remove this unused import 'java.net.URLClassLoader'.(Ï†°8Ïø¹˜†2J$4bade9e4-4d3b-473b-a7e4-677d97f46687
+s
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8Ğ¦ô–†2J$dd9fd42d-7a30-4d48-a3cd-f8210f7da14a
