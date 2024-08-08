@@ -1,6 +1,7 @@
 
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(∞¨∞Ÿ
-0
-java:S1220""Move this file to a named package.
-X
-java:S2094"BRemove this empty class, write its code or make it an "interface".(∞¨∞Ÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î’Î'
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î’Î'8‘÷ë’í2
+˚
+java:S1598"ﬁThis file "leetCode.java" should be located in "PACKAGE_NAME" directory, not in "/Users/k0s0lvx/Library/CloudStorage/OneDrive-WalmartInc/backup/intellijProjects/spring-boot-graphql-tut-master/DsAndAlgo/BasicDs/interv/src".(î’Î'8‘÷ë’í2
+W
+java:S2094"BRemove this empty class, write its code or make it an "interface".(î’Î'
