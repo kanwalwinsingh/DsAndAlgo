@@ -25,7 +25,7 @@ public class SubstringCounter {
      }
     public static void main(String[] args) {
         SubstringCounter counter = new SubstringCounter();
-        String s = "abcabc";
+        String s = "aaacb";
         System.out.println("Number of substrings containing at least one of each 'a', 'b', 'c': " + counter.numberofSubstring(s));
     }
 }

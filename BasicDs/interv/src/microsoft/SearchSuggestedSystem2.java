@@ -51,6 +51,7 @@ public class SearchSuggestedSystem2 {
                 node = node.children[index];
             }
             List<String> result = new ArrayList<>(node.suggestions);
+            Collections.sort(result);
             return result;
         }
     }

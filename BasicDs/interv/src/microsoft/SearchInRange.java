@@ -32,7 +32,7 @@ public class SearchInRange {
     }
 
     public static void main(String[] args) {
-        int[] nums = {7,7,7,7};
+        int[] nums = {7};
         System.out.println(Arrays.toString(searchRange(nums,7)));
     }
 

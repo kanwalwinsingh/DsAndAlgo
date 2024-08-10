@@ -31,8 +31,8 @@ public class MaxSubArrayEqualToK  {
         return maxlength;
     }
     public static void main(String[] args) {
-        int[] arr = {-5, 8, -14, 2, 4, 12};
-        int k = -5;
+        int[] arr = {10, 5, 2, 7, 1, 9};
+        int k = 15;
         System.out.println("Length of the longest sub-array is " + longestSubArrayWithK(arr, k)); // Output: 4
     }
 }
